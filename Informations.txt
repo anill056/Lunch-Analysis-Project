@@ -1,0 +1,115 @@
+================================================================================
+  PROJECT INFORMATION
+  Deep Learning–Based Preference Analysis in University Cafeteria
+================================================================================
+
+FILE NAME: lunch_analysis_project.zip
+SIZE: 25 MB (compressed)
+TOTAL FILES: 26
+
+================================================================================
+CONTENT SUMMARY
+================================================================================
+
+📁 SOURCE CODE (3 files)
+├── 01_data_analysis.py              - Data preprocessing and exploratory analysis
+├── 02_model_training.py             - CNN model training (MobileNetV2)
+└── 03_advanced_reporting.py         - Advanced reporting and visualization
+
+📁 TRAINED MODELS (3 files)
+├── best_model.h5                   - Best-performing model (13.4 MB)
+├── final_model.h5                  - Final trained model (13.4 MB)
+└── training_history.pkl            - Training History
+
+📁 GRAPHICS (7 PNG images)
+├── category_distribution.png       - Category distribution Graphics
+├── point_distribution.png          - Rating distribution histogram
+├── model_training_history.png      - Training accuracy/loss
+├── model_confusion_matrix.png      - 8×8 confusion matrix
+├── category_performance.png        - Performance by category
+├── training_history.png            - Alternative training plot
+└── confusion_matrix.png            - Alternative confusion matrix
+
+📁 TABLES (2 CSV files)
+├── general_metrics.csv             - General performance metrics
+└── category_metrics.csv            - Detailed category-based
+
+📁 REPORTS (3 TXT files)
+├── data_analysis_report.txt        - Data analysis report
+├── model_performance_report.txt    - Model performance evaluation
+└── project_result_report.txt       - Comprehensive final project report (8.5 KB)
+📁 METRIC DATA (2 JSON files)
+├── model_metrics.json              - Initial model metrics
+└── final_model_metrics.json        - Final model metrics
+
+📁 DATASET (1 file)
+└── survey.csv                      - User survey dataset (187 entries)
+
+📄 DOCUMENTATION (2 files)
+├── README.md                       - Project documentation
+└── PROJECT_SUMMARY.txt             - Detailed project summary
+
+================================================================================
+PERFORMANCE METRICS
+================================================================================
+
+✓ Accuracy       	   : 82.00%
+✓ Precision      	   : 81.00%
+✓ Recall      		   : 80.00%
+✓ F1-Score           	   : 80.50%
+
+Top-Performing Categories:
+1. Soups           : 86.50% F1-Score
+2. Desserts        : 85.00% F1-Score
+3. Meat Dishes     : 84.00% F1-Score
+
+================================================================================
+TECHNICAL DETAILS
+================================================================================
+
+MODEL: CNN (Convolutional Neural Network)
+TRANSFER LEARNING: MobileNetV2 (Pretrained On ImageNet))
+FRAMEWORK: TensorFlow 2.20.0 / Keras
+DATASET: 187 survey entries + 64 images
+Number of Classes: 8 food categories
+Training: 35 epochs, batch size 16
+
+================================================================================
+INSTALLATION & EXECUTION
+================================================================================
+
+1. Extract the ZIP file
+2. Install required packages:
+   pip install tensorflow pandas numpy matplotlib seaborn scikit-learn pillow
+
+3. Run the scripts sequentially:
+   python code/01_data_analysis.py
+   python code/02_model_training.py
+   python code/03_advanced_reporting.py
+
+4. View results:
+   - Graphics: results/*.png
+   - Tables: results/*.csv
+   - Reports: results/*.txt
+
+================================================================================
+PROJECT TEAM
+================================================================================
+
+Student       : ANIL AKSU
+Agent         : YELDA FIRAT
+Institution   : Mudanya University
+Program       : TUBITAK 2209-A
+
+================================================================================
+NOTES
+================================================================================
+
+• All files fully support Turkish characters
+• Model files are provided in Keras/TensorFlow H5 format
+• All images are exported in high-quality 300 DPI
+• Tested with Python 3.11
+• Training was performed on CPU
+
+================================================================================
+

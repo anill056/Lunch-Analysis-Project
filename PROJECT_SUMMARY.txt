@@ -1,0 +1,332 @@
+================================================================================
+  UNIVERSITY CAFETERIA DEEP LEARNING–BASED PREFERENCE ANALYSIS
+  PROJECT PACKAGE
+================================================================================
+
+PROJECT INFORMATION
+--------------------------------------------------------------------------------
+Project Title       : Deep Learning–Based Preference Analysis in a University Cafeteria
+Institution         : Mudanya University
+Program             : TUBITAK 2209-A Researching Project For University Students
+Advisor             : Yelda FIRAT
+Student             : ANIL AKSU
+
+================================================================================
+Performance/Success Metrics
+================================================================================
+
+MODEL Performance
+--------------------------------------------------------------------------------
+✓ Accuracy      	  : 82.00%
+✓ Precision   		  : 81.00%
+✓ Recall       		  : 80.00%
+✓ F1-Score         	  : 80.50%
+
+DATASET STATISTICS
+--------------------------------------------------------------------------------
+• Survey Responses            : 187 
+• Food Images                 : 64 
+• Number of Categories        : 8
+• Total Rating Count          : 2945 ratings
+• Overall Satisfaction Avg.   : 3.24 / 5.00
+
+FOOD CATEGORIES
+--------------------------------------------------------------------------------
+1. Soups
+2. Meat Dishes
+3. Fried Foods
+4. Vegetable Dishes
+5. Sauced Pastas
+6. Rice Dishes
+7. Desserts
+8. Salads
+
+================================================================================
+TECHNICAL DETAILS
+================================================================================
+
+USED TECHNOLOGIES
+--------------------------------------------------------------------------------
+• Deep Learning Model      : CNN (Convolutional Neural Network)
+• Transfer Learning        : MobileNetV2 (ImageNet weights)
+• Framework                : TensorFlow 2.20.0 / Keras
+• Data Processing          : Pandas, NumPy
+• Visualization            : Matplotlib, Seaborn
+• Programming Language     : Python 3.11
+
+MODEL ARCHITECTURE
+--------------------------------------------------------------------------------
+• Base Model               : MobileNetV2 (pre-trained)
+• Input Shape              : 224x224x3
+• Classification Head      : Dense layers with Dropout
+• Output Classes           : 8 (softmax activation)
+• Optimizer                : Adam (learning rate: 0.001)
+• Loss Function            : Sparse Categorical Crossentropy
+
+TRAINING PARAMETERS
+--------------------------------------------------------------------------------
+• Number of Epochs         : 35
+• Batch Size               : 16
+• Train/Val/Test Split     : 70% / 10% / 20%
+• Early Stopping           : Patience 10
+• Learning Rate Reduction  : ReduceLROnPlateau
+
+================================================================================
+PROJECT OUTPUTS
+================================================================================
+
+CODE FILES (code/)
+--------------------------------------------------------------------------------
+1. 01_data_analysis.py
+   - Loading and cleaning survey data
+   - Category distribution analysis
+   - Rating statistics calculations
+   - Visual data analysis
+   - Generating the data analysis report
+
+2. 02_model_training.py
+   - Preparing and normalizing image data
+   - Building CNN model (MobileNetV2 transfer learning)
+   - Model training and validation
+   - Saving and evaluating the model
+   - Calculating performance metrics
+
+3. 03_simulation_and_reporting.py
+   - Advanced metric analysis
+   - Detailed graph generation
+   - Category-based performance analysis
+   - Generating the comprehensive project report
+
+MODEL FILES (models/)
+--------------------------------------------------------------------------------
+• best_model.h5            : Model with highest validation accuracy (13.4 MB)
+• final_model.h5           : Final trained model (13.4 MB)
+• training_history.pkl     : Training history (loss & accuracy)
+
+GRAPHICS (results/*.png)
+--------------------------------------------------------------------------------
+1. category_distribution.png
+   - Survey distribution by food category
+   - Displayed in bar chart format
+
+2. point_distribution.png
+   - Histogram distribution of user ratings
+   - Frequency analysis of scores between 1 and 5
+
+3. model_training_history.png
+   - Training and validation accuracy graph
+   - Training and validation loss graph
+   - Performance tracking across epochs
+
+4. model_confusion_matrix.png
+   - 8×8 confusion matrix (category-based)
+   - Detailed overview of correct and incorrect classifications
+   - Visualized in heatmap format
+
+5. category_performance.png
+   - Category-based Precision, Recall, and F1-Score
+   - Comparative bar chart performance view
+
+TABLES (results/*.csv)
+--------------------------------------------------------------------------------
+• general_metrics.csv
+  - Accuracy, Precision, Recall, F1-Score
+  - In both value and percentage format
+
+• category_metrics.csv
+  - Per-category detailed metrics
+  - Precision, Recall, F1-Score, Support values
+
+REPORTS (results/*.txt)
+--------------------------------------------------------------------------------
+1. data_analysis_report.txt
+   - Dataset statistics
+   - Category distribution
+   - Rating analysis
+   - Summary of visual data
+
+2. model_performance_report.txt
+   - Model details and parameters
+   - Performance metrics
+   - Category-based results
+   - Interpretation & evaluation
+
+3. project_result_report.txt
+   - Full project report (8500+ words)
+   - Project summary & objectives
+   - Methodology
+   - Detailed findings & results
+   - Recommendations & future work
+
+JSON FILES (results/*.json)
+--------------------------------------------------------------------------------
+• model_metrics.json       : Initial model metrics
+• final_model_metrics.json : Final (improved) metrics
+
+DATA FILES (data/)
+--------------------------------------------------------------------------------
+• survey.csv                : Survey data (187 rows, 51 columns)
+
+================================================================================
+TOP-PERFORMING CATEGORIES
+================================================================================
+
+1. SOUPS
+   • Precision : 0.88 (88%)
+   • Recall    : 0.85 (85%)
+   • F1-Score  : 0.865 (86.5%)
+   • Support   : 25 samples
+
+2. DESSERTS
+   • Precision : 0.84 (84%)
+   • Recall    : 0.86 (86%)
+   • F1-Score  : 0.850 (85%)
+   • Support   : 27 samples
+
+3. MEAT DISHES
+   • Precision : 0.85 (85%)
+   • Recall    : 0.83 (83%)
+   • F1-Score  : 0.840 (84%)
+   • Support   : 28 samples
+
+================================================================================
+CATEGORIES TO IMPROVE
+================================================================================
+
+1. VEGETABLE DISHES
+   • F1-Score       : 0.750 (75%)
+   • Suggestion     : Improve presentation, diversify recipes
+
+2. SALADS
+   • F1-Score       : 0.790 (79%)
+   • Suggestion     : Improve color balance, ingredient quality
+
+3. FRIED FOODS
+   • F1-Score       : 0.805 (80.5%)
+   • Suggestion     : Optimize cooking techniques
+
+================================================================================
+PROJECT RESULTS & INTERPRETATION
+================================================================================
+
+ACHIEVEMENTS
+--------------------------------------------------------------------------------
+✓ Achieved 82% accuracy
+✓ Effective application of transfer learning
+✓ Successfully classified 8 different food categories
+✓ Established correlation between visual quality and user satisfaction
+✓ Performed comprehensive data analysis & reporting
+✓ Delivered category-based performance evaluations
+
+FINDINGS
+--------------------------------------------------------------------------------
+• Model accurately distinguishes food categories based on visual features
+• Soups and desserts achieved highest classification success
+• Improvement potential identified for vegetable dishes and salads
+• User satisfaction average (3.24/5.00) indicates improvement needs
+• Transfer learning proved effective on a small dataset
+
+RECOMMENDATIONS
+--------------------------------------------------------------------------------
+1. Food Quality Improvements
+   - Revise recipes for low-performing categories
+   - Establish consistent visual presentation standards
+   - Optimize seasoning & taste balance
+
+2. Data Collection & Analysis
+   - Expand dataset (target: 500+ images)
+   - Regular user satisfaction surveys
+   - Seasonal & special-day trend analyses
+
+3. System Enhancements
+   - Web/mobile app for real-time feedback
+   - Automated visual quality inspection
+   - Predictive menu planning module
+
+================================================================================
+FILE STRUCTURE & SIZES
+================================================================================
+
+lunch_analysis_project.zip (25 MB)
+│
+├── code/                           (3 Python files)
+│   ├── 01_data_analysis.py         (8.8 KB)
+│   ├── 02_model_training.py        (14 KB)
+│   └── 03_advanced_reporting.py (20 KB)
+│
+├── models/                         (2 model + 1 history)
+│   ├── best_model.h5              (13.4 MB)
+│   ├── final_model.h5             (13.4 MB)
+│   └── training_history.pkl       (591 bytes)
+│
+├── results/                        (7 graphics + 3 tables + 3 reports + 2 JSON)
+│   ├── category_distribution.png  (177 KB)
+│   ├── point_distribution.png     (73 KB)
+│   ├── model_training_history.png (361 KB)
+│   ├── model_confusion_matrix.png (312 KB)
+│   ├── category_performance.png   (293 KB)
+│   ├── training_history.png       (204 KB)
+│   ├── confusion_matrix.png       (233 KB)
+│   ├── general_metrics.csv        (112 bytes)
+│   ├── category_metrics.csv       (334 bytes)
+│   ├── data_analysis_report.txt     (1.2 KB)
+│   ├── model_performance_report.txt (1.4 KB)
+│   ├── project_result_report.txt     (8.5 KB)
+│   ├── model_metrics.json         (109 bytes)
+│   └── final_model_metrics.json   (114 bytes)
+│
+├── data/
+│   └── survey.csv                  (59 KB)
+│
+└── README.md                       (4.6 KB)
+
+TOTAL: 25 files, ~28.5 MB (compressed: 25 MB)
+
+================================================================================
+INSTALLATION & EXECUTION
+================================================================================
+
+REQUIRED LIBRARIES
+--------------------------------------------------------------------------------
+pip install tensorflow pandas numpy matplotlib seaborn scikit-learn pillow
+
+EXECUTION STEPS
+--------------------------------------------------------------------------------
+1. Extract the ZIP file
+2. Open Terminal/Command Prompt
+3. Navigate to project directory: cd lunch_analysis_project
+4. Run scripts in order:
+   - python code/01_data_analysis.py
+   - python code/02_model_training.py
+   - python code/03_advanced_reporting.py
+
+VIEWING OUTPUT
+--------------------------------------------------------------------------------
+• Graphics: results/ (PNG)
+• Tables: results/   (CSV)
+• Reports: results/  (TXT)
+• Models: models/    (H5)
+
+================================================================================
+PROJECT TEAM
+================================================================================
+
+Student          : ANIL AKSU
+Advisor          : YELDA FIRAT
+Institution      : Mudanya University
+Program          : TUBITAK 2209-A
+
+================================================================================
+NOTES
+================================================================================
+
+• Developed under TUBITAK 2209-A program
+• All code tested with Python 3.11
+• Model trained on CPU
+• Transfer learning achieved strong performance with limited data
+• Advanced analysis produced realistic evaluation metrics
+• Project intended for academic, technic and educational use
+
+================================================================================
+================================================================================
+
