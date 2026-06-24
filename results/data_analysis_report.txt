@@ -1,0 +1,46 @@
+# FOOD ANALYSIS PROJECT - DATA ANALYSIS REPORT
+============================================================
+
+## 1. GENERAL INFORMATION
+- Project Name: Deep Learning Based Preference Analysis in University Cafeteria
+- Analysis Date: 2025-10-21 23:33:56
+
+## 2. DATASET STATISTICS
+
+### 2.1 Category Distribution
+                Category  Count
+             Rice Dishes    96
+             Meat dishes    92
+                Desserts    92
+             Fried foods    92
+        Pasta with sauce    90
+        Vegetable dishes    89
+                  Salads    88
+                   Soups    81
+
+### 2.2 Score Statistics
+                  Metric Value
+                 Average  3.24
+                  Median  3.00
+      Standard Deviation  1.40
+                 Minimum   1.0
+                 Maximum   5.0
+       Total Score Count  2945
+
+### 2.3 Image Data Statistics
+               Metric  Value
+         Total Images     64
+Avg.  Size (KB)       176.55
+        Min Size (KB)  80.36
+        Max Size (KB) 271.82
+
+## 3. CONCLUSIONS
+
+The dataset has been successfully analyzed. There are a total of 720 survey responses and 64 images across 8 categories.
+General satisfaction average: 3.24/5.00
+
+## 4. GENERATED OUTPUTS
+
+- category_distribution.png
+- score_distribution.png
+- data_analysis_report.txt

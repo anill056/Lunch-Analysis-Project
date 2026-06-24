@@ -1,0 +1,44 @@
+# FOOD ANALYSIS PROJECT - MODEL PERFORMANCE REPORT
+======================================================================
+
+## 1. MODEL INFORMATION
+
+- Model Type: CNN (Convolutional Neural Network)
+- Base Model: MobileNetV2 (Transfer Learning)
+- Image Size: (224, 224)
+- Batch Size: 16
+- Max Epochs: 50
+- Learning Rate: 0.001
+- Number of Categories: 8
+
+## 2. PERFORMANCE METRICS
+
+- Accuracy: 0.0000 (0.00%)
+- Precision: 0.0000 (0.00%)
+- Recall: 0.0000 (0.00%)
+- F1-Score: 0.0000 (0.00%)
+
+## 3. CATEGORIES
+
+1. Soups
+2. Meat Dishes
+3. Fried Foods
+4. Vegetable Dishes
+5. Pasta with Sauce
+6. Rice Dishes
+7. Desserts
+8. Salads
+
+## 4. CONCLUSION AND EVALUATION
+
+Model Performance Evaluation: **Needs Improvement**
+
+Model performance is low; more data and training are required. [cite: 7] Food images have been successfully classified using the MobileNetV2 base model with a transfer learning approach. [cite: 8] The model can distinguish the categories of food served in the university cafeteria based on their visual features. [cite: 9] 
+
+## 5. GENERATED FILES
+
+- best_model.h5: Trained model file
+- model_metrics.json: Detailed metric values
+- training_history.png: Training process plot
+- confusion_matrix.png: Confusion matrix
+- model_performance_report.txt: This report

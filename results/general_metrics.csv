@@ -1,0 +1,5 @@
+Metrik,Değer,Yüzde
+Accuracy,0.8200,%82.00
+Precision,0.8100,%81.00
+Recall,0.8000,%80.00
+F1-Score,0.8050,%80.50

@@ -1,0 +1,799 @@
+Submission Date,Lütfen aldığınız yemek kategorilerini seçin:,"<strong>Çorbanın kıvamı ve dokusu nasıldı (yoğunluk, akışkanlık, pürüzsüzlük/tanelilik)?</strong> (1-5 arası puan veriniz)",<strong>Çorbanın tadı nasıldı?</strong> (1-5 arası puan veriniz),<strong>Çorbanın sunumu ve görsel çekiciliği nasıldı?</strong> (1-5 arası puan veriniz),"<strong>Çorbanın tuz, baharat ve diğer tatlandırıcılarının dengesi nasıldı?</strong> (1-5 arası puan veriniz)",<strong>Çorbanın malzeme kalitesi nasıldı?</strong> (1-5 arası puan veriniz),<strong>Bu çorbayı tekrar sipariş etme olasılığınız nedir?</strong>,•	Bu çorbayı arkadaşlarınıza veya ailenize tavsiye eder miydiniz?,<strong>Etin pişme derecesi nasıldı?</strong> (1-5 arası puan veriniz),<strong>Etli yemeğe eşlik eden garnitür veya sosların ana yemekle uyumu nasıldı?</strong> (1-5 arası puan veriniz),<strong>Etin yumuşaklığı/dokusu nasıldı?</strong> (1-5 arası puan veriniz),<strong>Etin lezzeti ve marinasyonu nasıldı?</strong> (1-5 arası puan veriniz),<strong>Bu etli yemeği tekrar sipariş etme olasılığınız nedir?</strong>,•	Bu yemeği arkadaşlarınıza veya ailenize tavsiye eder miydiniz?,<strong>Kızartmanın dışının ne kadar çıtır olduğunu nasıl değerlendirirsiniz?</strong> (1-5 arası puan veriniz),•	Kızartmanın genel lezzeti ve tuz/baharat dengesi nasıldı? (1-5 arası puan veriniz),<strong>Kızartmanın yağlılık seviyesini nasıl değerlendirirsiniz?</strong> (1-5 arası puan veriniz),<strong>Kızartmanın iç dokusunu ve pişme seviyesini nasıl değerlendirirsiniz?</strong> (1-5 arası puan veriniz),<strong>Bu kızartmayı tekrar sipariş etme olasılığınız nedir?</strong>,<strong>Bu kızartmayı arkadaşlarınıza veya ailenize tavsiye eder miydiniz?</strong>,<strong>Sebzelerin tazeliğini ve kalitesini nasıl değerlendirirsiniz?</strong> (1-5 arası puan veriniz),<strong>Yemeğin sunumu ve görsel çekiciliğini nasıl değerlendirirsiniz?</strong> (1-5 arası puan veriniz),<strong>Yemeğin yağ oranını ve hafifliğini nasıl değerlendirirsiniz?</strong> (1-5 arası puan veriniz),"<strong>Yemeğin genel lezzeti (tuz, baharat, yağ ve tat dengesi) nasıldı?</strong> (1-5 arası puan veriniz)","<strong>Sebzelerin dokusu (diri, yumuşaklık, ağızda dağılma vb.) nasıldı?</strong> (1-5 arası puan veriniz)",<strong>Sebzelerin pişme derecesi nasıldı?</strong> (1-5 arası puan veriniz),<strong>Bu sebzeli yemeği tekrar sipariş etme olasılığınız nedir?</strong>,<strong>Bu sebzeli yemeği arkadaşlarınıza veya ailenize tavsiye eder miydiniz?</strong>,<strong>Makarnanın pişme derecesini nasıl değerlendirirsiniz?</strong> (1-5 arası puan veriniz),<strong>Makarnanın sosla olan genel uyumunu nasıl değerlendirirsiniz?</strong> (1-5 arası puan veriniz),<strong>Sosun kıvamını nasıl değerlendirirsiniz?</strong> (1-5 arası puan veriniz),<strong>Sosun lezzetini ve tadının yoğunluğunu nasıl değerlendirirsiniz?</strong> (1-5 arası puan veriniz),<strong>Bu soslu makarnayı tekrar sipariş etme olasılığınız nedir?</strong>,<strong>Bu soslu makarnayı arkadaşlarınıza veya ailenize tavsiye eder miydiniz?</strong>,<strong>Pilavın tane tane olma durumunu nasıl değerlendirirsiniz?</strong> (1-5 arası puan veriniz),"<strong>Pilavın genel lezzeti, tuz oranı ve yağ dengesini nasıl değerlendirirsiniz?</strong> (1-5 arası puan veriniz)",<strong>Pilavın genel pişme derecesini nasıl değerlendirirsiniz?</strong> (1-5 arası puan veriniz),<strong>Bu pilavı tekrar sipariş etme olasılığınız nedir?</strong>,<strong>Bu pilavı arkadaşlarınıza veya ailenize tavsiye eder miydiniz?</strong>,<strong>Tatlının genel lezzetini nasıl değerlendirirsiniz?</strong> (1-5 arası puan veriniz),<strong>Tatlının sunumunu ve görsel çekiciliğini nasıl değerlendirirsiniz?</strong> (1-5 arası puan veriniz),"<strong>Tatlının doku ve kıvamını (yumuşaklık, sertlik, akışkanlık) nasıl değerlendirirsiniz?</strong> (1-5 arası puan veriniz)",<strong>Tatlının şeker oranını nasıl değerlendirirsiniz?</strong> (1-5 arası puan veriniz),<strong>Bu tatlıyı tekrar sipariş etme olasılığınız nedir?</strong>,<strong>Bu tatlıyı arkadaşlarınıza veya ailenize tavsiye eder miydiniz?</strong>,<strong>Salata malzemelerinin tazeliğini nasıl değerlendirirsiniz?</strong> (1-5 arası puan veriniz),"<strong>Salatanın malzeme çeşitliliğini ve oranını (örneğin: yeşillik, protein, diğer sebzeler) nasıl değerlendirirsiniz?</strong> (1-5 arası puan veriniz)",<strong>Salata sosunun lezzeti ve salata ile uyumunu nasıl değerlendirirsiniz?</strong> (1-5 arası puan veriniz),<strong>Bu salatayı tekrar sipariş etme olasılığınız nedir?</strong>,<strong>Bu salatayı arkadaşlarınıza veya ailenize tavsiye eder miydiniz?</strong>
+"Jul 7, 2025","•	Çorbalar
+•	 Etli yemekler
+•	Sebze yemekleri
+•	 Soslu makarnalar
+",5.0,3.0,5.0,4.0,3.0,o	Kararsızım,o	Evet,2.0,1.0,4.0,2.0,o	Kesinlikle sipariş etmem,o	Hayır,,,,,,,5.0,2.0,2.0,1.0,5.0,5.0,o	Kararsızım,o	Kararsızım,5.0,3.0,2.0,1.0,o	Muhtemelen sipariş ederim,,,,,,,,,,,,,,,,,
+"Jul 7, 2025",•	Çorbalar,1.0,3.0,2.0,2.0,2.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Jul 7, 2025","•	 Etli yemekler
+•	Kızartmalar
+•	 Soslu makarnalar",,,,,,,,1.0,2.0,1.0,4.0,o	Muhtemelen sipariş etmem,o	Evet,4.0,3.0,3.0,1.0,o	Kararsızım,o	Hayır,,,,,,,,,2.0,1.0,5.0,1.0,,o	Hayır,,,,,,,,,,,,,,,,
+"Jul 7, 2025","•	Kızartmalar
+•	Sebze yemekleri
+•	Pilavlar
+•	Tatlılar
+•	Salatalar
+",,,,,,,,,,,,,,3.0,4.0,2.0,5.0,o	Muhtemelen sipariş etmem,,5.0,3.0,3.0,2.0,4.0,1.0,o	Muhtemelen sipariş ederim,,,,,,,,1.0,1.0,3.0,o	Kararsızım,,2.0,2.0,4.0,3.0,,o	Hayır,2.0,2.0,3.0,o	Kesinlikle sipariş ederim,o	Evet
+"Jul 7, 2025","•	 Etli yemekler
+•	Kızartmalar
+•	Sebze yemekleri
+•	 Soslu makarnalar
+•	Pilavlar
+•	Tatlılar
+•	Salatalar",,,,,,,,2.0,3.0,4.0,2.0,o	Muhtemelen sipariş ederim,o	Kararsızım,5.0,4.0,4.0,5.0,,,1.0,1.0,3.0,3.0,4.0,2.0,o	Kesinlikle sipariş ederim,,3.0,1.0,3.0,2.0,,,3.0,3.0,2.0,o	Muhtemelen sipariş ederim,o	Hayır,1.0,2.0,5.0,4.0,o	Kesinlikle sipariş etmem,o	Kararsızım,3.0,2.0,3.0,o	Muhtemelen sipariş ederim,o	Hayır
+"Jul 7, 2025","•	Çorbalar
+•	 Etli yemekler
+•	 Soslu makarnalar
+•	Tatlılar
+",4.0,3.0,3.0,3.0,5.0,o	Muhtemelen sipariş etmem,,4.0,3.0,1.0,3.0,o	Kararsızım,o	Kararsızım,,,,,,,,,,,,,,,2.0,2.0,4.0,1.0,o	Kesinlikle sipariş etmem,o	Evet,,,,,,5.0,3.0,2.0,2.0,o	Kararsızım,o	Evet,,,,,
+"Jul 7, 2025","•	Çorbalar
+•	 Etli yemekler
+•	Kızartmalar
+•	Sebze yemekleri
+•	 Soslu makarnalar
+•	Pilavlar
+•	Tatlılar
+•	Salatalar
+",3.0,1.0,4.0,3.0,3.0,,o	Evet,4.0,5.0,2.0,4.0,o	Muhtemelen sipariş ederim,o	Kararsızım,1.0,1.0,5.0,1.0,o	Muhtemelen sipariş etmem,o	Hayır,5.0,4.0,5.0,1.0,1.0,3.0,o	Muhtemelen sipariş etmem,o	Evet,5.0,4.0,5.0,3.0,o	Kesinlikle sipariş ederim,o	Hayır,2.0,2.0,4.0,o	Kesinlikle sipariş ederim,o	Hayır,4.0,1.0,5.0,2.0,,o	Hayır,1.0,5.0,4.0,,o	Hayır
+"Jul 7, 2025",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Jul 7, 2025","•	 Etli yemekler
+",,,,,,,,3.0,1.0,2.0,5.0,o	Kesinlikle sipariş etmem,o	Hayır,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Jul 7, 2025","•	Çorbalar
+•	 Etli yemekler
+•	Kızartmalar
+•	Sebze yemekleri
+•	 Soslu makarnalar
+•	Pilavlar
+•	Tatlılar
+•	Salatalar
+",4.0,5.0,3.0,4.0,1.0,o	Kesinlikle sipariş ederim,o	Evet,2.0,4.0,4.0,1.0,o	Kesinlikle sipariş etmem,,1.0,1.0,4.0,5.0,o	Kesinlikle sipariş etmem,o	Hayır,5.0,3.0,4.0,5.0,2.0,2.0,o	Muhtemelen sipariş ederim,o	Hayır,3.0,4.0,4.0,2.0,o	Kesinlikle sipariş etmem,,5.0,4.0,4.0,,o	Hayır,1.0,5.0,4.0,2.0,o	Kesinlikle sipariş ederim,o	Hayır,3.0,1.0,4.0,,o	Evet
+"Jul 7, 2025","•	Sebze yemekleri
+•	 Soslu makarnalar
+•	Pilavlar
+•	Tatlılar",,,,,,,,,,,,,,,,,,,,1.0,1.0,1.0,1.0,5.0,5.0,o	Kararsızım,o	Hayır,4.0,4.0,5.0,5.0,o	Muhtemelen sipariş etmem,o	Evet,5.0,4.0,1.0,o	Kesinlikle sipariş ederim,o	Evet,3.0,1.0,4.0,4.0,o	Kesinlikle sipariş etmem,o	Evet,,,,,
+"Jul 7, 2025","•	 Etli yemekler
+•	Sebze yemekleri
+•	 Soslu makarnalar
+•	Pilavlar
+•	Tatlılar
+",,,,,,,,3.0,4.0,4.0,1.0,o	Kararsızım,o	Hayır,,,,,,,5.0,3.0,4.0,4.0,4.0,4.0,o	Kesinlikle sipariş ederim,,3.0,2.0,4.0,4.0,o	Kararsızım,,5.0,3.0,1.0,,o	Hayır,1.0,5.0,2.0,4.0,o	Kesinlikle sipariş ederim,,,,,,
+"Jul 7, 2025","•	Çorbalar
+•	Kızartmalar
+•	Sebze yemekleri
+•	 Soslu makarnalar
+•	Pilavlar
+",5.0,3.0,3.0,2.0,2.0,o	Kesinlikle sipariş ederim,o	Evet,,,,,,,4.0,3.0,5.0,3.0,o	Kesinlikle sipariş etmem,o	Kararsızım,4.0,3.0,2.0,2.0,4.0,2.0,o	Muhtemelen sipariş ederim,o	Evet,4.0,4.0,5.0,3.0,o	Muhtemelen sipariş ederim,o	Kararsızım,4.0,5.0,5.0,o	Kesinlikle sipariş etmem,o	Hayır,,,,,,,,,,,
+"Jul 7, 2025","•	Çorbalar
+•	 Etli yemekler
+•	Kızartmalar
+•	Sebze yemekleri
+•	 Soslu makarnalar
+•	Tatlılar
+•	Salatalar
+",4.0,5.0,5.0,4.0,1.0,o	Kararsızım,o	Kararsızım,3.0,5.0,3.0,3.0,o	Muhtemelen sipariş ederim,o	Hayır,3.0,2.0,4.0,2.0,,o	Kararsızım,1.0,1.0,5.0,2.0,2.0,3.0,o	Muhtemelen sipariş etmem,o	Kararsızım,4.0,4.0,4.0,3.0,o	Kesinlikle sipariş etmem,o	Kararsızım,,,,,,2.0,3.0,2.0,3.0,o	Muhtemelen sipariş etmem,o	Kararsızım,2.0,4.0,2.0,o	Kesinlikle sipariş ederim,
+"Jul 7, 2025",•	Salatalar,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,3.0,2.0,,
+"Jul 7, 2025","•	Çorbalar
+•	 Etli yemekler
+•	Kızartmalar
+•	 Soslu makarnalar
+•	Tatlılar
+•	Salatalar
+",2.0,5.0,2.0,2.0,4.0,,o	Evet,3.0,2.0,3.0,5.0,o	Kararsızım,o	Kararsızım,4.0,1.0,5.0,1.0,o	Kesinlikle sipariş ederim,o	Kararsızım,,,,,,,,,4.0,1.0,3.0,4.0,,o	Evet,,,,,,5.0,3.0,3.0,4.0,o	Muhtemelen sipariş ederim,o	Kararsızım,2.0,2.0,3.0,o	Kararsızım,o	Evet
+"Jul 7, 2025","•	Çorbalar
+•	 Etli yemekler
+•	Kızartmalar
+•	Sebze yemekleri
+•	Tatlılar",4.0,5.0,1.0,2.0,2.0,o	Kesinlikle sipariş etmem,o	Kararsızım,1.0,2.0,5.0,1.0,o	Muhtemelen sipariş ederim,,2.0,2.0,1.0,5.0,o	Kararsızım,,5.0,2.0,2.0,1.0,2.0,4.0,o	Kararsızım,o	Evet,,,,,,,,,,,,2.0,4.0,4.0,2.0,o	Kararsızım,o	Evet,,,,,
+"Jul 7, 2025","•	Çorbalar
+•	 Soslu makarnalar
+•	Tatlılar
+•	Salatalar",2.0,5.0,2.0,4.0,3.0,o	Kesinlikle sipariş ederim,,,,,,,,,,,,,,,,,,,,,,1.0,1.0,4.0,4.0,o	Muhtemelen sipariş ederim,o	Hayır,,,,,,5.0,2.0,3.0,4.0,o	Kesinlikle sipariş etmem,o	Evet,4.0,2.0,3.0,o	Muhtemelen sipariş ederim,o	Evet
+"Jul 7, 2025","•	 Etli yemekler
+•	Sebze yemekleri
+•	Pilavlar
+•	Salatalar",,,,,,,,3.0,2.0,5.0,1.0,o	Muhtemelen sipariş etmem,o	Evet,,,,,,,5.0,3.0,3.0,5.0,1.0,4.0,,o	Hayır,,,,,,,4.0,2.0,5.0,,o	Hayır,,,,,,,2.0,5.0,2.0,,o	Hayır
+"Jul 7, 2025","•	Çorbalar
+•	Sebze yemekleri
+•	Pilavlar
+",2.0,2.0,2.0,2.0,1.0,,o	Hayır,,,,,,,,,,,,,5.0,3.0,3.0,5.0,5.0,1.0,o	Kararsızım,o	Evet,,,,,,,4.0,3.0,2.0,o	Kesinlikle sipariş etmem,o	Hayır,,,,,,,,,,,
+"Jul 7, 2025","•	 Etli yemekler
+•	Tatlılar
+",,,,,,,,5.0,5.0,4.0,4.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,4.0,1.0,5.0,,o	Evet,,,,,
+"Jul 7, 2025","•	 Etli yemekler
+•	Tatlılar",,,,,,,,2.0,3.0,4.0,3.0,,o	Hayır,,,,,,,,,,,,,,,,,,,,,,,,,,3.0,3.0,5.0,3.0,o	Muhtemelen sipariş ederim,o	Kararsızım,,,,,
+"Jul 7, 2025",•	Kızartmalar,,,,,,,,,,,,,,4.0,3.0,1.0,5.0,,o	Evet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Jul 7, 2025","•	Sebze yemekleri
+•	Salatalar
+",,,,,,,,,,,,,,,,,,,,2.0,3.0,5.0,5.0,3.0,2.0,o	Muhtemelen sipariş ederim,o	Evet,,,,,,,,,,,,,,,,,,1.0,2.0,2.0,o	Muhtemelen sipariş ederim,o	Evet
+"Jul 7, 2025",•	 Etli yemekler,,,,,,,,2.0,4.0,2.0,5.0,o	Kesinlikle sipariş ederim,o	Evet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Jul 7, 2025","•	Çorbalar
+•	 Etli yemekler
+•	Kızartmalar
+•	Sebze yemekleri
+•	 Soslu makarnalar
+•	Pilavlar
+•	Tatlılar
+•	Salatalar
+",3.0,2.0,5.0,2.0,2.0,o	Kesinlikle sipariş ederim,o	Kararsızım,5.0,5.0,5.0,4.0,o	Muhtemelen sipariş etmem,o	Hayır,5.0,4.0,4.0,1.0,o	Kararsızım,o	Kararsızım,3.0,2.0,4.0,2.0,5.0,2.0,,o	Evet,3.0,2.0,1.0,1.0,o	Kesinlikle sipariş ederim,o	Kararsızım,5.0,3.0,1.0,,,4.0,3.0,1.0,5.0,o	Kararsızım,o	Evet,5.0,5.0,5.0,o	Muhtemelen sipariş ederim,o	Hayır
+"Jul 7, 2025","•	Sebze yemekleri
+•	Pilavlar
+•	Tatlılar",,,,,,,,,,,,,,,,,,,,3.0,4.0,1.0,2.0,1.0,4.0,o	Muhtemelen sipariş etmem,o	Evet,,,,,,,2.0,2.0,1.0,o	Muhtemelen sipariş etmem,o	Evet,5.0,4.0,1.0,1.0,,,,,,,
+"Jul 7, 2025","•	Çorbalar
+•	Kızartmalar
+•	Sebze yemekleri
+•	 Soslu makarnalar
+•	Pilavlar
+•	Tatlılar",5.0,4.0,2.0,5.0,1.0,o	Kesinlikle sipariş ederim,,,,,,,,3.0,5.0,3.0,3.0,o	Kesinlikle sipariş ederim,o	Kararsızım,2.0,1.0,2.0,3.0,2.0,1.0,o	Kararsızım,o	Kararsızım,3.0,3.0,2.0,5.0,o	Kesinlikle sipariş ederim,,1.0,4.0,3.0,o	Muhtemelen sipariş ederim,,5.0,1.0,3.0,3.0,o	Muhtemelen sipariş etmem,,,,,,
+"Jul 7, 2025","•	Çorbalar
+•	 Etli yemekler
+•	Kızartmalar
+•	Sebze yemekleri
+•	Tatlılar
+•	Salatalar
+",3.0,2.0,1.0,1.0,2.0,,o	Evet,3.0,2.0,3.0,1.0,o	Muhtemelen sipariş ederim,,1.0,4.0,4.0,3.0,o	Kesinlikle sipariş ederim,o	Hayır,3.0,2.0,1.0,5.0,2.0,5.0,o	Muhtemelen sipariş etmem,o	Kararsızım,,,,,,,,,,,,2.0,5.0,3.0,4.0,o	Kararsızım,o	Kararsızım,3.0,4.0,2.0,o	Kesinlikle sipariş ederim,o	Kararsızım
+"Jul 7, 2025","•	Çorbalar
+•	Kızartmalar
+•	Sebze yemekleri
+•	 Soslu makarnalar
+•	Pilavlar
+•	Salatalar",3.0,2.0,2.0,5.0,2.0,o	Muhtemelen sipariş ederim,o	Evet,,,,,,,4.0,5.0,5.0,3.0,o	Kesinlikle sipariş ederim,o	Evet,1.0,1.0,2.0,1.0,4.0,2.0,o	Muhtemelen sipariş ederim,o	Kararsızım,4.0,5.0,2.0,5.0,o	Kararsızım,o	Hayır,4.0,3.0,1.0,o	Kesinlikle sipariş etmem,o	Evet,,,,,,,5.0,4.0,3.0,o	Muhtemelen sipariş ederim,o	Evet
+"Jul 7, 2025","•	Çorbalar
+•	 Etli yemekler
+•	Pilavlar
+•	Salatalar
+",5.0,2.0,2.0,2.0,3.0,o	Kesinlikle sipariş etmem,o	Hayır,3.0,3.0,5.0,2.0,o	Kesinlikle sipariş ederim,,,,,,,,,,,,,,,,,,,,,,2.0,4.0,2.0,,o	Kararsızım,,,,,,,4.0,3.0,2.0,o	Muhtemelen sipariş etmem,o	Hayır
+"Jul 7, 2025",•	Sebze yemekleri,,,,,,,,,,,,,,,,,,,,5.0,4.0,4.0,2.0,3.0,2.0,o	Muhtemelen sipariş etmem,o	Hayır,,,,,,,,,,,,,,,,,,,,,,
+"Jul 7, 2025","•	 Soslu makarnalar
+•	Tatlılar
+•	Salatalar",,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0,5.0,5.0,5.0,o	Kesinlikle sipariş ederim,o	Evet,,,,,,4.0,4.0,4.0,4.0,o	Muhtemelen sipariş ederim,o	Evet,3.0,3.0,3.0,o	Kararsızım,o	Kararsızım
+"Jul 7, 2025","•	Çorbalar
+•	Kızartmalar
+•	Sebze yemekleri
+•	Pilavlar
+•	Salatalar",2.0,5.0,4.0,2.0,4.0,o	Kararsızım,o	Kararsızım,,,,,,,5.0,2.0,4.0,3.0,o	Kararsızım,,2.0,1.0,4.0,2.0,3.0,4.0,o	Muhtemelen sipariş ederim,o	Kararsızım,,,,,,,3.0,4.0,5.0,o	Muhtemelen sipariş etmem,o	Hayır,,,,,,,5.0,4.0,2.0,o	Kararsızım,
+"Jul 7, 2025","•	 Etli yemekler
+•	Sebze yemekleri",,,,,,,,4.0,5.0,5.0,3.0,o	Kararsızım,,,,,,,,1.0,5.0,3.0,5.0,3.0,5.0,o	Kesinlikle sipariş ederim,o	Hayır,,,,,,,,,,,,,,,,,,,,,,
+"Jul 7, 2025","•	Çorbalar
+•	Kızartmalar
+•	Pilavlar",3.0,2.0,5.0,3.0,5.0,o	Kesinlikle sipariş ederim,o	Evet,,,,,,,3.0,5.0,1.0,5.0,o	Kesinlikle sipariş etmem,o	Hayır,,,,,,,,,,,,,,,3.0,5.0,2.0,,o	Kararsızım,,,,,,,,,,,
+"Jul 7, 2025","•	Çorbalar
+•	 Etli yemekler
+•	Kızartmalar
+•	 Soslu makarnalar
+•	Pilavlar
+•	Tatlılar
+•	Salatalar
+",2.0,3.0,5.0,3.0,5.0,o	Kararsızım,,1.0,1.0,1.0,1.0,o	Kesinlikle sipariş ederim,o	Kararsızım,4.0,2.0,3.0,2.0,o	Kesinlikle sipariş ederim,,,,,,,,,,3.0,5.0,1.0,5.0,,o	Kararsızım,3.0,1.0,4.0,o	Kesinlikle sipariş ederim,o	Hayır,3.0,1.0,4.0,1.0,o	Muhtemelen sipariş ederim,o	Kararsızım,1.0,2.0,4.0,o	Kararsızım,
+"Jul 7, 2025","•	Kızartmalar
+•	 Soslu makarnalar
+",,,,,,,,,,,,,,4.0,5.0,2.0,3.0,,o	Hayır,,,,,,,,,1.0,2.0,2.0,4.0,,o	Hayır,,,,,,,,,,,,,,,,
+"Jul 7, 2025","•	Çorbalar
+•	Kızartmalar
+•	Sebze yemekleri
+•	Tatlılar
+•	Salatalar
+",5.0,5.0,2.0,5.0,2.0,o	Kesinlikle sipariş ederim,,,,,,,,5.0,3.0,1.0,2.0,,o	Kararsızım,1.0,2.0,5.0,2.0,5.0,4.0,o	Muhtemelen sipariş ederim,o	Evet,,,,,,,,,,,,3.0,5.0,3.0,2.0,o	Kararsızım,,2.0,5.0,1.0,o	Kesinlikle sipariş ederim,o	Kararsızım
+"Jul 7, 2025","•	Kızartmalar
+•	Sebze yemekleri
+•	Pilavlar",,,,,,,,,,,,,,4.0,5.0,5.0,5.0,o	Muhtemelen sipariş ederim,o	Evet,5.0,5.0,5.0,5.0,5.0,5.0,o	Kesinlikle sipariş ederim,o	Evet,,,,,,,5.0,5.0,5.0,o	Kesinlikle sipariş ederim,o	Evet,,,,,,,,,,,
+"Jul 7, 2025","•	Çorbalar
+•	 Etli yemekler
+•	Kızartmalar
+•	Sebze yemekleri
+•	Pilavlar
+•	Tatlılar
+•	Salatalar
+",2.0,3.0,5.0,1.0,3.0,o	Kesinlikle sipariş ederim,o	Hayır,1.0,3.0,1.0,2.0,o	Muhtemelen sipariş etmem,o	Kararsızım,3.0,4.0,4.0,5.0,o	Muhtemelen sipariş ederim,o	Evet,3.0,1.0,5.0,3.0,4.0,4.0,o	Kesinlikle sipariş etmem,,,,,,,,4.0,1.0,4.0,o	Muhtemelen sipariş ederim,,5.0,1.0,1.0,5.0,o	Muhtemelen sipariş etmem,o	Evet,4.0,1.0,2.0,,
+"Jul 7, 2025","•	Çorbalar
+•	Kızartmalar
+•	Sebze yemekleri
+•	 Soslu makarnalar
+•	Tatlılar
+•	Salatalar",1.0,2.0,4.0,4.0,4.0,o	Kesinlikle sipariş etmem,o	Kararsızım,,,,,,,1.0,3.0,1.0,2.0,o	Kesinlikle sipariş etmem,o	Hayır,1.0,4.0,5.0,5.0,1.0,2.0,o	Kesinlikle sipariş ederim,o	Hayır,4.0,3.0,5.0,5.0,o	Muhtemelen sipariş ederim,o	Evet,,,,,,5.0,1.0,4.0,3.0,o	Muhtemelen sipariş ederim,o	Kararsızım,2.0,2.0,4.0,o	Muhtemelen sipariş etmem,o	Kararsızım
+"Jul 7, 2025","•	Çorbalar
+•	 Etli yemekler
+•	Kızartmalar
+•	Sebze yemekleri
+•	 Soslu makarnalar
+•	Tatlılar
+•	Salatalar
+",4.0,2.0,4.0,5.0,1.0,o	Muhtemelen sipariş etmem,o	Kararsızım,5.0,1.0,1.0,5.0,o	Kesinlikle sipariş ederim,o	Evet,4.0,4.0,2.0,2.0,o	Muhtemelen sipariş etmem,o	Kararsızım,4.0,1.0,4.0,1.0,2.0,5.0,,o	Hayır,4.0,2.0,3.0,5.0,,,,,,,,4.0,4.0,1.0,4.0,o	Muhtemelen sipariş etmem,o	Evet,2.0,1.0,4.0,o	Kesinlikle sipariş etmem,o	Kararsızım
+"Jul 7, 2025","•	Kızartmalar
+•	Sebze yemekleri
+•	Pilavlar",,,,,,,,,,,,,,4.0,3.0,5.0,4.0,o	Kararsızım,o	Hayır,1.0,4.0,3.0,5.0,4.0,1.0,o	Kesinlikle sipariş ederim,o	Kararsızım,,,,,,,1.0,3.0,4.0,o	Muhtemelen sipariş ederim,,,,,,,,,,,,
+"Jul 7, 2025","•	 Etli yemekler
+•	Kızartmalar
+•	Tatlılar
+",,,,,,,,3.0,4.0,4.0,3.0,,o	Evet,4.0,5.0,4.0,4.0,o	Kararsızım,o	Kararsızım,,,,,,,,,,,,,,,,,,,,4.0,3.0,3.0,1.0,o	Kesinlikle sipariş ederim,o	Kararsızım,,,,,
+"Jul 7, 2025","•	Çorbalar
+•	 Etli yemekler
+•	Kızartmalar
+•	 Soslu makarnalar
+•	Pilavlar
+•	Tatlılar
+•	Salatalar
+",5.0,4.0,5.0,2.0,4.0,o	Muhtemelen sipariş ederim,o	Kararsızım,3.0,5.0,2.0,1.0,o	Kararsızım,,1.0,4.0,4.0,3.0,o	Kesinlikle sipariş ederim,o	Evet,,,,,,,,,5.0,2.0,5.0,4.0,o	Muhtemelen sipariş etmem,o	Kararsızım,1.0,2.0,5.0,o	Kesinlikle sipariş etmem,o	Evet,3.0,5.0,3.0,3.0,o	Muhtemelen sipariş ederim,o	Evet,3.0,5.0,4.0,,o	Hayır
+"Jul 7, 2025",•	Pilavlar,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0,4.0,4.0,,o	Kararsızım,,,,,,,,,,,
+"Jul 7, 2025",•	Salatalar,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,4.0,1.0,o	Muhtemelen sipariş etmem,o	Kararsızım
+"Jul 7, 2025","•	 Etli yemekler
+•	 Soslu makarnalar
+•	Pilavlar
+•	Salatalar",,,,,,,,5.0,4.0,5.0,1.0,o	Kesinlikle sipariş etmem,,,,,,,,,,,,,,,,3.0,2.0,4.0,2.0,o	Kararsızım,o	Kararsızım,1.0,3.0,3.0,o	Kesinlikle sipariş ederim,o	Evet,,,,,,,1.0,3.0,4.0,o	Muhtemelen sipariş etmem,o	Evet
+"Jul 7, 2025","•	Çorbalar
+•	 Etli yemekler
+•	Kızartmalar
+•	Sebze yemekleri
+•	Salatalar
+",3.0,5.0,4.0,3.0,1.0,o	Muhtemelen sipariş ederim,,3.0,2.0,3.0,3.0,,o	Evet,3.0,4.0,2.0,1.0,o	Kesinlikle sipariş etmem,o	Hayır,3.0,4.0,1.0,4.0,5.0,3.0,o	Muhtemelen sipariş etmem,o	Hayır,,,,,,,,,,,,,,,,,,4.0,3.0,1.0,o	Kesinlikle sipariş ederim,o	Evet
+"Jul 7, 2025",•	 Soslu makarnalar,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,5.0,2.0,1.0,o	Kesinlikle sipariş ederim,o	Kararsızım,,,,,,,,,,,,,,,,
+"Jul 7, 2025","•	Tatlılar
+•	Salatalar",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,5.0,5.0,4.0,o	Kesinlikle sipariş ederim,,3.0,2.0,4.0,o	Kararsızım,o	Kararsızım
+"Jul 7, 2025","•	 Soslu makarnalar
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,2.0,2.0,4.0,1.0,o	Kararsızım,o	Hayır,,,,,,,,,,,,,,,,
+"Jul 7, 2025",•	 Etli yemekler,,,,,,,,2.0,1.0,3.0,3.0,o	Muhtemelen sipariş etmem,o	Kararsızım,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Jul 7, 2025","•	 Etli yemekler
+•	Kızartmalar
+•	Salatalar
+",,,,,,,,2.0,1.0,3.0,4.0,,o	Kararsızım,4.0,2.0,4.0,3.0,o	Muhtemelen sipariş etmem,o	Evet,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,1.0,1.0,o	Kesinlikle sipariş etmem,o	Hayır
+"Jul 7, 2025","•	Pilavlar
+•	Tatlılar",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0,3.0,4.0,o	Kararsızım,o	Hayır,1.0,1.0,3.0,5.0,o	Kararsızım,,,,,,
+"Jul 7, 2025","•	Kızartmalar
+•	 Soslu makarnalar
+•	Pilavlar
+•	Salatalar
+",,,,,,,,,,,,,,1.0,5.0,5.0,5.0,o	Muhtemelen sipariş ederim,o	Kararsızım,,,,,,,,,2.0,2.0,3.0,1.0,o	Kararsızım,,4.0,1.0,5.0,o	Kesinlikle sipariş etmem,o	Kararsızım,,,,,,,1.0,3.0,1.0,o	Muhtemelen sipariş etmem,o	Hayır
+"Jul 7, 2025","•	Kızartmalar
+•	Sebze yemekleri
+•	 Soslu makarnalar
+•	Tatlılar",,,,,,,,,,,,,,1.0,4.0,1.0,2.0,,o	Hayır,5.0,1.0,2.0,2.0,1.0,5.0,o	Kesinlikle sipariş ederim,o	Hayır,3.0,4.0,4.0,3.0,o	Muhtemelen sipariş ederim,o	Kararsızım,,,,,,3.0,3.0,5.0,1.0,o	Kesinlikle sipariş ederim,o	Hayır,,,,,
+"Jul 7, 2025","•	Çorbalar
+•	 Etli yemekler
+•	Pilavlar
+•	Tatlılar",5.0,5.0,5.0,5.0,5.0,o	Kesinlikle sipariş ederim,o	Evet,3.0,3.0,3.0,3.0,o	Kararsızım,o	Kararsızım,,,,,,,,,,,,,,,,,,,,,4.0,4.0,4.0,o	Muhtemelen sipariş ederim,o	Evet,4.0,4.0,5.0,5.0,o	Muhtemelen sipariş ederim,o	Evet,,,,,
+"Jul 7, 2025",•	Pilavlar,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.0,2.0,1.0,o	Kesinlikle sipariş etmem,,,,,,,,,,,,
+"Jul 7, 2025","•	Çorbalar
+•	 Etli yemekler
+•	Kızartmalar
+",2.0,5.0,4.0,4.0,4.0,,o	Hayır,3.0,4.0,3.0,4.0,o	Muhtemelen sipariş etmem,o	Kararsızım,2.0,1.0,2.0,3.0,o	Muhtemelen sipariş etmem,o	Hayır,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Jul 7, 2025","•	 Etli yemekler
+•	Tatlılar",,,,,,,,2.0,4.0,3.0,2.0,o	Kesinlikle sipariş ederim,o	Kararsızım,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,1.0,5.0,1.0,o	Kesinlikle sipariş etmem,,,,,,
+"Jul 7, 2025","•	 Etli yemekler
+•	Kızartmalar",,,,,,,,5.0,4.0,4.0,3.0,o	Kesinlikle sipariş ederim,o	Evet,5.0,1.0,2.0,3.0,o	Muhtemelen sipariş ederim,o	Hayır,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Jul 7, 2025",•	 Etli yemekler,,,,,,,,2.0,3.0,2.0,4.0,o	Kararsızım,o	Evet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Jul 7, 2025","•	Çorbalar
+•	Sebze yemekleri
+•	 Soslu makarnalar
+•	Pilavlar
+•	Tatlılar
+•	Salatalar
+",3.0,2.0,3.0,1.0,4.0,o	Kesinlikle sipariş ederim,o	Hayır,,,,,,,,,,,,,2.0,4.0,2.0,3.0,4.0,1.0,,,1.0,5.0,1.0,2.0,,o	Evet,5.0,5.0,1.0,o	Kararsızım,o	Kararsızım,2.0,4.0,5.0,2.0,o	Kararsızım,o	Evet,2.0,4.0,5.0,o	Muhtemelen sipariş etmem,
+"Jul 7, 2025","•	Çorbalar
+•	Sebze yemekleri
+•	Pilavlar
+•	Tatlılar",3.0,5.0,2.0,5.0,1.0,o	Kesinlikle sipariş etmem,o	Kararsızım,,,,,,,,,,,,,1.0,2.0,4.0,4.0,2.0,3.0,o	Kesinlikle sipariş ederim,o	Kararsızım,,,,,,,1.0,1.0,2.0,o	Kararsızım,o	Hayır,3.0,3.0,4.0,3.0,o	Muhtemelen sipariş ederim,o	Hayır,,,,,
+"Jul 7, 2025","•	Çorbalar
+•	 Etli yemekler
+•	Pilavlar
+",1.0,3.0,3.0,3.0,2.0,,,1.0,1.0,2.0,5.0,o	Kesinlikle sipariş ederim,o	Evet,,,,,,,,,,,,,,,,,,,,,5.0,4.0,2.0,,o	Kararsızım,,,,,,,,,,,
+"Jul 7, 2025",•	Tatlılar,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0,5.0,1.0,4.0,o	Kesinlikle sipariş etmem,,,,,,
+"Jul 7, 2025","•	 Soslu makarnalar
+•	Salatalar",,,,,,,,,,,,,,,,,,,,,,,,,,,,2.0,2.0,3.0,1.0,o	Kararsızım,,,,,,,,,,,,,1.0,5.0,5.0,,o	Evet
+"Jul 7, 2025",•	 Etli yemekler,,,,,,,,4.0,4.0,3.0,2.0,o	Muhtemelen sipariş etmem,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Jul 7, 2025",•	Sebze yemekleri,,,,,,,,,,,,,,,,,,,,1.0,5.0,5.0,5.0,5.0,5.0,o	Kesinlikle sipariş ederim,o	Hayır,,,,,,,,,,,,,,,,,,,,,,
+"Jul 7, 2025","•	Çorbalar
+•	 Etli yemekler
+•	Kızartmalar
+•	Sebze yemekleri
+•	Pilavlar
+•	Tatlılar
+",4.0,3.0,5.0,5.0,5.0,o	Muhtemelen sipariş etmem,o	Hayır,4.0,2.0,1.0,4.0,o	Muhtemelen sipariş ederim,,5.0,1.0,4.0,4.0,o	Muhtemelen sipariş etmem,o	Hayır,1.0,1.0,5.0,1.0,5.0,3.0,o	Kararsızım,,,,,,,,3.0,1.0,2.0,,o	Kararsızım,4.0,4.0,5.0,2.0,o	Kesinlikle sipariş ederim,o	Kararsızım,,,,,
+"Jul 7, 2025","•	 Etli yemekler
+•	Sebze yemekleri
+•	Pilavlar
+•	Tatlılar",,,,,,,,4.0,2.0,1.0,4.0,o	Kesinlikle sipariş etmem,,,,,,,,4.0,5.0,1.0,2.0,5.0,5.0,o	Muhtemelen sipariş ederim,,,,,,,,5.0,1.0,2.0,o	Kesinlikle sipariş etmem,o	Hayır,3.0,2.0,5.0,5.0,o	Muhtemelen sipariş ederim,o	Hayır,,,,,
+"Jul 7, 2025","•	Çorbalar
+•	Sebze yemekleri
+•	 Soslu makarnalar
+•	Tatlılar
+•	Salatalar",5.0,2.0,2.0,3.0,4.0,o	Kararsızım,,,,,,,,,,,,,,3.0,1.0,1.0,2.0,1.0,2.0,o	Kesinlikle sipariş etmem,o	Evet,4.0,2.0,2.0,3.0,o	Kesinlikle sipariş ederim,o	Hayır,,,,,,5.0,3.0,3.0,3.0,o	Muhtemelen sipariş etmem,o	Kararsızım,3.0,3.0,3.0,o	Muhtemelen sipariş ederim,o	Kararsızım
+"Jul 7, 2025","•	Çorbalar
+•	 Etli yemekler
+•	Kızartmalar
+•	Sebze yemekleri
+•	 Soslu makarnalar
+•	Pilavlar
+•	Tatlılar
+•	Salatalar
+",3.0,1.0,3.0,1.0,4.0,o	Kesinlikle sipariş ederim,,5.0,5.0,2.0,1.0,o	Muhtemelen sipariş etmem,o	Evet,3.0,1.0,1.0,2.0,o	Muhtemelen sipariş etmem,o	Kararsızım,1.0,4.0,1.0,5.0,5.0,4.0,o	Kesinlikle sipariş ederim,o	Kararsızım,4.0,5.0,1.0,5.0,o	Kararsızım,,4.0,3.0,1.0,o	Kesinlikle sipariş etmem,o	Hayır,4.0,3.0,5.0,2.0,,o	Hayır,4.0,3.0,4.0,o	Kesinlikle sipariş etmem,o	Kararsızım
+"Jul 7, 2025","•	 Etli yemekler
+•	Kızartmalar
+•	 Soslu makarnalar
+•	Pilavlar
+•	Tatlılar
+•	Salatalar
+",,,,,,,,1.0,2.0,4.0,1.0,o	Kesinlikle sipariş ederim,o	Hayır,3.0,4.0,5.0,5.0,o	Muhtemelen sipariş ederim,,,,,,,,,,4.0,1.0,1.0,5.0,o	Kararsızım,o	Hayır,1.0,4.0,5.0,o	Kesinlikle sipariş ederim,o	Hayır,2.0,1.0,2.0,1.0,o	Kesinlikle sipariş ederim,,2.0,2.0,5.0,o	Muhtemelen sipariş ederim,
+"Jul 7, 2025","•	Çorbalar
+•	Sebze yemekleri
+•	 Soslu makarnalar
+•	Pilavlar
+•	Tatlılar
+•	Salatalar
+",4.0,2.0,5.0,4.0,5.0,o	Kesinlikle sipariş etmem,,,,,,,,,,,,,,2.0,5.0,1.0,5.0,1.0,2.0,o	Muhtemelen sipariş ederim,,5.0,5.0,2.0,3.0,o	Muhtemelen sipariş etmem,o	Hayır,5.0,2.0,5.0,o	Kararsızım,o	Kararsızım,4.0,2.0,1.0,3.0,o	Kararsızım,o	Hayır,1.0,3.0,1.0,o	Kararsızım,o	Kararsızım
+"Jul 7, 2025","•	Çorbalar
+•	 Etli yemekler
+•	Kızartmalar
+•	Sebze yemekleri
+•	 Soslu makarnalar
+•	Pilavlar
+•	Tatlılar
+•	Salatalar
+",1.0,1.0,2.0,4.0,3.0,o	Kararsızım,,4.0,3.0,1.0,4.0,,o	Hayır,1.0,5.0,4.0,4.0,o	Kesinlikle sipariş etmem,,1.0,4.0,3.0,5.0,5.0,4.0,,o	Evet,3.0,3.0,2.0,4.0,o	Kararsızım,o	Evet,5.0,3.0,2.0,,o	Kararsızım,5.0,4.0,1.0,3.0,o	Kararsızım,o	Kararsızım,2.0,4.0,2.0,o	Kesinlikle sipariş ederim,o	Evet
+"Jul 7, 2025","•	Tatlılar
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0,3.0,5.0,5.0,o	Kesinlikle sipariş etmem,,,,,,
+"Jul 7, 2025","•	Pilavlar
+•	Tatlılar
+•	Salatalar
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0,1.0,1.0,o	Muhtemelen sipariş ederim,o	Hayır,5.0,2.0,5.0,3.0,o	Kesinlikle sipariş ederim,,3.0,4.0,5.0,o	Muhtemelen sipariş ederim,o	Hayır
+"Jul 6, 2025",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Jul 6, 2025",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Jul 6, 2025","•	 Etli yemekler
+•	 Soslu makarnalar
+•	Salatalar",,,,,,,,4.0,5.0,3.0,3.0,o	Muhtemelen sipariş ederim,o	Evet,,,,,,,,,,,,,,,4.0,2.0,3.0,3.0,o	Kararsızım,o	Kararsızım,,,,,,,,,,,,1.0,2.0,1.0,o	Kesinlikle sipariş etmem,o	Hayır
+"Jul 6, 2025","•	 Etli yemekler
+•	 Soslu makarnalar
+•	Pilavlar
+•	Salatalar",,,,,,,,5.0,4.0,4.0,4.0,o	Kararsızım,o	Kararsızım,,,,,,,,,,,,,,,5.0,4.0,4.0,2.0,o	Muhtemelen sipariş ederim,o	Evet,5.0,5.0,2.0,o	Muhtemelen sipariş etmem,o	Hayır,,,,,,,4.0,1.0,2.0,o	Kesinlikle sipariş etmem,o	Hayır
+"Jul 6, 2025","•	Sebze yemekleri
+•	 Soslu makarnalar
+•	Tatlılar",,,,,,,,,,,,,,,,,,,,4.0,5.0,2.0,4.0,3.0,5.0,o	Kararsızım,o	Kararsızım,4.0,3.0,5.0,4.0,o	Muhtemelen sipariş ederim,o	Evet,,,,,,5.0,4.0,4.0,2.0,o	Muhtemelen sipariş ederim,o	Evet,,,,,
+"Jul 6, 2025","•	Pilavlar
+•	Tatlılar
+•	Salatalar",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,4.0,3.0,o	Muhtemelen sipariş ederim,o	Evet,5.0,5.0,4.0,5.0,o	Kesinlikle sipariş ederim,o	Evet,2.0,4.0,4.0,o	Muhtemelen sipariş ederim,o	Evet
+"Jul 6, 2025","•	Çorbalar
+•	 Etli yemekler
+•	Kızartmalar
+•	Sebze yemekleri
+•	 Soslu makarnalar
+•	Pilavlar
+•	Tatlılar
+•	Salatalar",5.0,4.0,4.0,3.0,5.0,o	Muhtemelen sipariş ederim,o	Evet,4.0,1.0,1.0,2.0,o	Kararsızım,o	Hayır,4.0,3.0,3.0,4.0,o	Muhtemelen sipariş etmem,o	Hayır,1.0,2.0,2.0,3.0,2.0,3.0,o	Kararsızım,o	Kararsızım,4.0,3.0,4.0,4.0,o	Muhtemelen sipariş ederim,o	Hayır,5.0,5.0,4.0,o	Kararsızım,o	Kararsızım,5.0,4.0,4.0,4.0,o	Muhtemelen sipariş ederim,o	Hayır,5.0,5.0,5.0,o	Muhtemelen sipariş ederim,o	Evet
+"Jul 6, 2025","•	Kızartmalar
+•	Sebze yemekleri
+•	 Soslu makarnalar
+•	Pilavlar
+•	Tatlılar",,,,,,,,,,,,,,5.0,4.0,4.0,5.0,o	Muhtemelen sipariş ederim,o	Kararsızım,4.0,3.0,3.0,3.0,5.0,5.0,o	Muhtemelen sipariş etmem,o	Hayır,4.0,4.0,3.0,3.0,o	Muhtemelen sipariş ederim,o	Hayır,5.0,4.0,5.0,o	Muhtemelen sipariş ederim,o	Hayır,3.0,4.0,4.0,4.0,o	Kararsızım,o	Kararsızım,,,,,
+"Jul 6, 2025","•	Pilavlar
+•	Tatlılar
+•	Salatalar",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,5.0,4.0,o	Muhtemelen sipariş ederim,o	Evet,5.0,5.0,4.0,4.0,o	Kararsızım,o	Kararsızım,5.0,4.0,4.0,o	Kesinlikle sipariş ederim,o	Evet
+"Jul 6, 2025","•	Sebze yemekleri
+•	 Soslu makarnalar
+•	Pilavlar
+•	Tatlılar
+•	Salatalar",,,,,,,,,,,,,,,,,,,,5.0,5.0,5.0,5.0,4.0,4.0,o	Muhtemelen sipariş ederim,o	Evet,5.0,5.0,5.0,5.0,o	Muhtemelen sipariş ederim,o	Evet,4.0,3.0,1.0,o	Kararsızım,o	Kararsızım,4.0,2.0,3.0,3.0,o	Muhtemelen sipariş ederim,o	Hayır,5.0,5.0,4.0,o	Muhtemelen sipariş ederim,o	Evet
+"Jul 6, 2025","•	Çorbalar
+•	 Etli yemekler
+•	Kızartmalar
+•	Sebze yemekleri",5.0,4.0,4.0,4.0,5.0,o	Kararsızım,o	Kararsızım,5.0,4.0,3.0,4.0,o	Muhtemelen sipariş ederim,o	Evet,5.0,5.0,5.0,5.0,o	Muhtemelen sipariş ederim,o	Evet,3.0,4.0,4.0,5.0,3.0,4.0,o	Kararsızım,o	Kararsızım,,,,,,,,,,,,,,,,,,,,,,
+"Jul 6, 2025","•	 Soslu makarnalar
+•	Pilavlar
+•	Tatlılar
+•	Salatalar",,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,4.0,4.0,3.0,o	Muhtemelen sipariş ederim,o	Hayır,4.0,4.0,3.0,o	Muhtemelen sipariş ederim,o	Hayır,2.0,3.0,2.0,4.0,o	Kararsızım,o	Kararsızım,5.0,5.0,5.0,o	Kesinlikle sipariş ederim,o	Evet
+"Jul 6, 2025","•	 Soslu makarnalar
+•	Pilavlar
+•	Tatlılar
+•	Salatalar",,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,4.0,4.0,4.0,o	Muhtemelen sipariş ederim,o	Evet,5.0,5.0,4.0,o	Kararsızım,o	Kararsızım,5.0,5.0,5.0,3.0,o	Muhtemelen sipariş ederim,o	Evet,5.0,3.0,4.0,o	Muhtemelen sipariş ederim,o	Hayır
+"Jul 6, 2025","•	Çorbalar
+•	 Etli yemekler
+•	Kızartmalar
+•	Sebze yemekleri
+•	 Soslu makarnalar",,4.0,,3.0,5.0,o	Muhtemelen sipariş ederim,o	Evet,5.0,4.0,4.0,4.0,o	Kesinlikle sipariş ederim,o	Evet,5.0,4.0,4.0,5.0,o	Muhtemelen sipariş ederim,o	Evet,5.0,5.0,5.0,4.0,5.0,5.0,o	Muhtemelen sipariş ederim,o	Evet,4.0,3.0,3.0,5.0,o	Muhtemelen sipariş etmem,o	Hayır,,,,,,,,,,,,,,,,
+"Jul 6, 2025","•	Kızartmalar
+•	Sebze yemekleri
+•	 Soslu makarnalar
+•	Pilavlar",,,,,,,,,,,,,,5.0,4.0,4.0,3.0,o	Kararsızım,o	Kararsızım,5.0,5.0,5.0,3.0,4.0,2.0,o	Muhtemelen sipariş ederim,o	Kararsızım,5.0,4.0,,4.0,o	Muhtemelen sipariş ederim,o	Evet,5.0,1.0,1.0,o	Kesinlikle sipariş etmem,o	Hayır,,,,,,,,,,,
+"Jul 6, 2025","•	Pilavlar
+•	Tatlılar
+•	Salatalar",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,4.0,4.0,o	Kesinlikle sipariş ederim,o	Evet,5.0,4.0,3.0,4.0,o	Muhtemelen sipariş ederim,o	Evet,5.0,5.0,5.0,o	Kesinlikle sipariş ederim,o	Evet
+"Jul 6, 2025","•	Çorbalar
+•	 Etli yemekler
+•	Kızartmalar",5.0,3.0,4.0,4.0,4.0,o	Kararsızım,o	Kararsızım,5.0,5.0,5.0,4.0,o	Muhtemelen sipariş ederim,o	Evet,5.0,4.0,3.0,4.0,o	Muhtemelen sipariş ederim,o	Evet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Jul 6, 2025","•	 Etli yemekler
+•	Kızartmalar",,,,,,,,5.0,4.0,3.0,4.0,o	Muhtemelen sipariş ederim,o	Evet,5.0,,4.0,4.0,o	Muhtemelen sipariş ederim,o	Evet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Jul 6, 2025","•	 Etli yemekler
+•	Kızartmalar
+•	Sebze yemekleri
+•	 Soslu makarnalar
+•	Pilavlar
+•	Tatlılar",,,,,,,,5.0,4.0,5.0,5.0,o	Muhtemelen sipariş ederim,o	Kararsızım,4.0,5.0,3.0,4.0,o	Muhtemelen sipariş ederim,o	Evet,5.0,5.0,4.0,5.0,3.0,4.0,o	Muhtemelen sipariş ederim,o	Evet,5.0,5.0,5.0,3.0,o	Kesinlikle sipariş ederim,o	Evet,5.0,5.0,1.0,o	Muhtemelen sipariş etmem,o	Hayır,5.0,,4.0,4.0,o	Muhtemelen sipariş ederim,o	Evet,,,,,
+"Jul 6, 2025","•	Kızartmalar
+•	Sebze yemekleri
+•	 Soslu makarnalar
+•	Pilavlar
+•	Tatlılar
+•	Salatalar",,,,,,,,,,,,,,4.0,3.0,5.0,5.0,o	Muhtemelen sipariş ederim,o	Evet,4.0,3.0,3.0,5.0,4.0,4.0,o	Muhtemelen sipariş ederim,o	Evet,4.0,5.0,3.0,3.0,o	Muhtemelen sipariş ederim,o	Kararsızım,5.0,4.0,4.0,o	Muhtemelen sipariş ederim,o	Evet,5.0,,5.0,4.0,o	Kesinlikle sipariş ederim,o	Evet,5.0,4.0,4.0,o	Muhtemelen sipariş ederim,o	Evet
+"Jul 6, 2025","•	Çorbalar
+•	 Etli yemekler
+•	Kızartmalar
+•	Sebze yemekleri",4.0,,4.0,5.0,5.0,o	Kesinlikle sipariş ederim,o	Evet,4.0,3.0,3.0,4.0,o	Muhtemelen sipariş ederim,o	Evet,4.0,3.0,1.0,1.0,o	Kesinlikle sipariş etmem,o	Hayır,4.0,5.0,3.0,3.0,3.0,4.0,o	Muhtemelen sipariş etmem,o	Hayır,,,,,,,,,,,,,,,,,,,,,,
+"Jul 6, 2025","•	 Soslu makarnalar
+•	Pilavlar
+•	Tatlılar
+•	Salatalar",,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,4.0,4.0,4.0,o	Kararsızım,o	Kararsızım,5.0,4.0,5.0,o	Muhtemelen sipariş ederim,o	Evet,3.0,4.0,4.0,2.0,o	Muhtemelen sipariş etmem,o	Hayır,5.0,5.0,5.0,o	Muhtemelen sipariş ederim,o	Evet
+"Jul 6, 2025","•	Kızartmalar
+•	Sebze yemekleri
+•	 Soslu makarnalar",,,,,,,,,,,,,,5.0,3.0,4.0,2.0,o	Kesinlikle sipariş etmem,o	Hayır,5.0,4.0,4.0,3.0,5.0,4.0,o	Muhtemelen sipariş ederim,o	Hayır,5.0,5.0,4.0,4.0,o	Muhtemelen sipariş ederim,o	Evet,,,,,,,,,,,,,,,,
+"Jul 6, 2025","•	Pilavlar
+•	Tatlılar
+•	Salatalar",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0,5.0,3.0,o	Kararsızım,o	Kararsızım,5.0,5.0,5.0,5.0,o	Kesinlikle sipariş ederim,o	Evet,2.0,4.0,1.0,o	Kesinlikle sipariş etmem,o	Hayır
+"Jul 6, 2025","•	Kızartmalar
+•	Sebze yemekleri
+•	 Soslu makarnalar
+•	Pilavlar",,,,,,,,,,,,,,4.0,3.0,5.0,2.0,o	Muhtemelen sipariş ederim,o	Kararsızım,4.0,4.0,3.0,5.0,4.0,5.0,o	Muhtemelen sipariş etmem,,3.0,3.0,4.0,2.0,o	Muhtemelen sipariş etmem,o	Hayır,5.0,5.0,5.0,o	Kesinlikle sipariş ederim,o	Evet,,,,,,,,,,,
+"Jul 6, 2025","•	Çorbalar
+•	 Etli yemekler
+•	Kızartmalar
+•	Sebze yemekleri
+•	 Soslu makarnalar
+•	Pilavlar
+•	Tatlılar
+•	Salatalar",5.0,5.0,5.0,5.0,5.0,o	Kesinlikle sipariş ederim,o	Evet,4.0,4.0,3.0,4.0,o	Muhtemelen sipariş ederim,o	Evet,4.0,4.0,3.0,4.0,o	Muhtemelen sipariş ederim,o	Evet,5.0,5.0,5.0,5.0,5.0,5.0,o	Kesinlikle sipariş ederim,o	Evet,5.0,5.0,4.0,4.0,o	Muhtemelen sipariş ederim,o	Evet,3.0,4.0,2.0,o	Muhtemelen sipariş etmem,o	Hayır,,5.0,4.0,4.0,o	Muhtemelen sipariş ederim,o	Evet,5.0,3.0,5.0,o	Muhtemelen sipariş ederim,o	Evet
+"Jul 6, 2025","•	 Etli yemekler
+•	Kızartmalar
+•	Sebze yemekleri
+•	 Soslu makarnalar
+•	Pilavlar",,,,,,,,4.0,5.0,3.0,4.0,o	Kararsızım,o	Hayır,5.0,5.0,5.0,5.0,o	Kesinlikle sipariş ederim,o	Evet,4.0,4.0,3.0,3.0,5.0,5.0,o	Muhtemelen sipariş ederim,o	Evet,4.0,5.0,5.0,5.0,o	Muhtemelen sipariş ederim,o	Evet,4.0,3.0,4.0,o	Muhtemelen sipariş ederim,o	Evet,,,,,,,,,,,
+"Jul 6, 2025","•	Kızartmalar
+•	Sebze yemekleri
+•	 Soslu makarnalar
+•	Pilavlar
+•	Tatlılar",,,,,,,,,,,,,,4.0,4.0,3.0,5.0,o	Kesinlikle sipariş ederim,o	Evet,4.0,5.0,5.0,5.0,5.0,5.0,o	Kesinlikle sipariş ederim,o	Evet,4.0,4.0,3.0,4.0,o	Muhtemelen sipariş ederim,o	Evet,5.0,4.0,5.0,o	Kesinlikle sipariş ederim,o	Evet,4.0,5.0,5.0,5.0,o	Kesinlikle sipariş ederim,o	Evet,,,,,
+"Jul 6, 2025","•	Çorbalar
+•	 Etli yemekler
+•	Kızartmalar",4.0,4.0,5.0,3.0,4.0,o	Muhtemelen sipariş ederim,o	Kararsızım,5.0,4.0,4.0,3.0,o	Muhtemelen sipariş ederim,o	Evet,4.0,5.0,2.0,4.0,o	Muhtemelen sipariş ederim,o	Evet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Jul 6, 2025","•	Pilavlar
+•	Tatlılar
+•	Salatalar",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0,4.0,5.0,o	Muhtemelen sipariş ederim,o	Evet,4.0,5.0,5.0,5.0,o	Kesinlikle sipariş ederim,o	Evet,4.0,2.0,3.0,o	Muhtemelen sipariş etmem,o	Hayır
+"Jul 6, 2025","•	 Soslu makarnalar
+•	Tatlılar
+•	Salatalar",,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0,4.0,4.0,4.0,o	Muhtemelen sipariş ederim,o	Evet,,,,,,5.0,5.0,5.0,5.0,o	Kesinlikle sipariş ederim,o	Evet,5.0,5.0,5.0,o	Muhtemelen sipariş ederim,o	Evet
+"Jul 6, 2025","•	 Soslu makarnalar
+•	Tatlılar",,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,5.0,5.0,5.0,o	Kesinlikle sipariş ederim,o	Evet,,,,,,4.0,4.0,4.0,4.0,o	Muhtemelen sipariş ederim,o	Evet,,,,,
+"Jul 6, 2025","•	Sebze yemekleri
+•	Pilavlar
+•	Tatlılar",,,,,,,,,,,,,,,,,,,,4.0,4.0,4.0,4.0,4.0,4.0,o	Muhtemelen sipariş ederim,o	Evet,,,,,,,4.0,4.0,4.0,o	Muhtemelen sipariş ederim,o	Evet,5.0,5.0,5.0,5.0,o	Muhtemelen sipariş ederim,o	Evet,,,,,
+"Jul 5, 2025",•	Kızartmalar,,,,,,,,,,,,,,5.0,5.0,5.0,5.0,o	Muhtemelen sipariş ederim,o	Kararsızım,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Jul 5, 2025","•	Çorbalar
+•	 Etli yemekler
+•	Pilavlar",5.0,5.0,5.0,5.0,5.0,o	Muhtemelen sipariş ederim,o	Kararsızım,5.0,5.0,5.0,5.0,o	Kesinlikle sipariş ederim,o	Kararsızım,,,,,,,,,,,,,,,,,,,,,5.0,5.0,5.0,o	Kararsızım,o	Kararsızım,,,,,,,,,,,
+"Jul 5, 2025",•	Salatalar,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,5.0,5.0,o	Muhtemelen sipariş ederim,o	Kararsızım
+"Jul 5, 2025",•	Çorbalar,,,5.0,5.0,5.0,o	Muhtemelen sipariş ederim,o	Hayır,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Jul 4, 2025","•	Sebze yemekleri
+•	Pilavlar",,,,,,,,,,,,,,,,,,,,4.0,5.0,5.0,5.0,5.0,5.0,o	Muhtemelen sipariş ederim,o	Evet,,,,,,,4.0,4.0,4.0,o	Muhtemelen sipariş ederim,o	Evet,,,,,,,,,,,
+"Jul 4, 2025","•	Çorbalar
+•	 Etli yemekler
+•	Pilavlar
+•	Tatlılar",5.0,5.0,5.0,5.0,5.0,o	Kesinlikle sipariş ederim,o	Evet,4.0,4.0,3.0,3.0,o	Kararsızım,o	Kararsızım,,,,,,,,,,,,,,,,,,,,,4.0,4.0,4.0,o	Muhtemelen sipariş ederim,o	Evet,5.0,5.0,5.0,5.0,o	Kesinlikle sipariş ederim,o	Evet,,,,,
+"Jul 4, 2025","•	Kızartmalar
+•	Salatalar",,,,,,,,,,,,,,4.0,4.0,4.0,4.0,o	Muhtemelen sipariş ederim,o	Evet,,,,,,,,,,,,,,,,,,,,,,,,,,3.0,3.0,3.0,o	Kararsızım,o	Kararsızım
+"Jul 4, 2025","•	 Soslu makarnalar
+•	Pilavlar
+•	Tatlılar",,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0,4.0,5.0,1.0,o	Muhtemelen sipariş etmem,o	Hayır,5.0,1.0,1.0,o	Kararsızım,o	Hayır,5.0,4.0,4.0,4.0,o	Kesinlikle sipariş ederim,o	Evet,,,,,
+"Jul 4, 2025","•	Çorbalar
+•	 Etli yemekler
+•	Kızartmalar
+•	Sebze yemekleri
+•	 Soslu makarnalar
+•	Pilavlar
+•	Tatlılar
+•	Salatalar",4.0,3.0,2.0,1.0,5.0,o	Kararsızım,o	Hayır,4.0,4.0,5.0,3.0,o	Kararsızım,o	Kararsızım,5.0,5.0,5.0,5.0,o	Kesinlikle sipariş ederim,o	Evet,5.0,4.0,4.0,3.0,4.0,3.0,o	Muhtemelen sipariş ederim,o	Kararsızım,4.0,5.0,3.0,3.0,o	Muhtemelen sipariş etmem,o	Kararsızım,5.0,1.0,3.0,o	Kesinlikle sipariş etmem,o	Hayır,5.0,5.0,5.0,4.0,o	Kesinlikle sipariş ederim,o	Evet,5.0,4.0,3.0,o	Muhtemelen sipariş ederim,o	Evet
+"Jul 4, 2025","•	Çorbalar
+•	 Etli yemekler
+•	Kızartmalar",4.0,3.0,5.0,4.0,4.0,o	Muhtemelen sipariş etmem,o	Kararsızım,5.0,3.0,4.0,4.0,o	Muhtemelen sipariş ederim,o	Evet,3.0,5.0,5.0,5.0,o	Kesinlikle sipariş ederim,o	Evet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Jul 3, 2025","•	Çorbalar
+•	Sebze yemekleri
+•	Pilavlar
+•	Tatlılar",3.0,3.0,2.0,2.0,3.0,o	Kesinlikle sipariş etmem,o	Hayır,,,,,,,,,,,,,4.0,4.0,4.0,4.0,4.0,4.0,o	Muhtemelen sipariş ederim,o	Evet,,,,,,,3.0,3.0,3.0,o	Muhtemelen sipariş ederim,o	Evet,4.0,4.0,4.0,4.0,o	Muhtemelen sipariş ederim,o	Evet,,,,,
+"Jul 3, 2025","•	Çorbalar
+•	 Etli yemekler
+•	Pilavlar",4.0,4.0,4.0,4.0,4.0,o	Muhtemelen sipariş ederim,o	Evet,3.0,3.0,3.0,3.0,o	Kararsızım,o	Kararsızım,,,,,,,,,,,,,,,,,,,,,4.0,3.0,3.0,o	Kararsızım,o	Kararsızım,,,,,,,,,,,
+"Jul 7, 2025",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Jul 7, 2025","•	Sebze yemekleri
+•	 Soslu makarnalar
+",,,,,,,,,,,,,,,,,,,,4.0,4.0,2.0,1.0,2.0,1.0,o	Kesinlikle sipariş etmem,o	Evet,1.0,4.0,5.0,2.0,o	Muhtemelen sipariş etmem,,,,,,,,,,,,,,,,,
+"Jul 7, 2025","•	Kızartmalar
+•	Sebze yemekleri
+•	 Soslu makarnalar
+•	Pilavlar
+•	Salatalar
+",,,,,,,,,,,,,,4.0,1.0,1.0,1.0,o	Kararsızım,o	Evet,3.0,4.0,2.0,5.0,1.0,4.0,o	Kararsızım,o	Kararsızım,5.0,4.0,5.0,1.0,o	Kesinlikle sipariş etmem,o	Kararsızım,1.0,1.0,4.0,o	Kesinlikle sipariş etmem,o	Evet,,,,,,,4.0,3.0,1.0,o	Muhtemelen sipariş ederim,o	Kararsızım
+"Jul 7, 2025","•	 Etli yemekler
+•	Kızartmalar
+•	Sebze yemekleri
+•	Salatalar
+",,,,,,,,3.0,1.0,1.0,1.0,o	Kararsızım,,4.0,2.0,2.0,5.0,o	Muhtemelen sipariş etmem,,2.0,2.0,2.0,3.0,1.0,4.0,o	Muhtemelen sipariş ederim,o	Kararsızım,,,,,,,,,,,,,,,,,,2.0,5.0,1.0,o	Kararsızım,o	Evet
+"Jul 7, 2025","•	Çorbalar
+•	Kızartmalar
+•	Sebze yemekleri
+•	 Soslu makarnalar
+•	Pilavlar
+•	Tatlılar
+•	Salatalar
+",5.0,5.0,1.0,1.0,5.0,o	Kesinlikle sipariş etmem,,,,,,,,4.0,4.0,5.0,4.0,o	Muhtemelen sipariş ederim,o	Kararsızım,4.0,2.0,5.0,5.0,2.0,4.0,,o	Hayır,1.0,5.0,5.0,1.0,o	Kararsızım,,1.0,4.0,3.0,o	Muhtemelen sipariş etmem,o	Evet,3.0,3.0,3.0,3.0,o	Kesinlikle sipariş etmem,o	Evet,1.0,3.0,5.0,o	Kesinlikle sipariş ederim,o	Hayır
+"Jul 7, 2025","•	Çorbalar
+•	 Etli yemekler
+•	 Soslu makarnalar
+•	Pilavlar",3.0,2.0,4.0,2.0,3.0,,,4.0,2.0,3.0,1.0,o	Kesinlikle sipariş etmem,o	Evet,,,,,,,,,,,,,,,3.0,3.0,2.0,2.0,o	Muhtemelen sipariş ederim,o	Kararsızım,5.0,1.0,1.0,o	Muhtemelen sipariş etmem,o	Evet,,,,,,,,,,,
+"Jul 7, 2025","•	Çorbalar
+•	Kızartmalar
+•	Sebze yemekleri
+•	 Soslu makarnalar
+•	Pilavlar
+•	Tatlılar
+•	Salatalar
+",2.0,1.0,5.0,2.0,2.0,o	Muhtemelen sipariş ederim,,,,,,,,2.0,2.0,3.0,3.0,o	Kararsızım,,1.0,5.0,2.0,1.0,2.0,1.0,o	Kesinlikle sipariş etmem,,2.0,5.0,2.0,2.0,o	Muhtemelen sipariş etmem,o	Kararsızım,1.0,5.0,5.0,o	Kesinlikle sipariş etmem,o	Kararsızım,5.0,1.0,1.0,4.0,o	Kesinlikle sipariş etmem,,5.0,3.0,4.0,o	Muhtemelen sipariş etmem,o	Kararsızım
+"Jul 7, 2025",•	Tatlılar,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,3.0,2.0,2.0,,o	Hayır,,,,,
+"Jul 7, 2025","•	Çorbalar
+•	 Etli yemekler
+•	Kızartmalar
+•	Pilavlar
+•	Salatalar
+",3.0,3.0,3.0,5.0,1.0,,o	Evet,2.0,2.0,4.0,2.0,o	Muhtemelen sipariş ederim,o	Evet,1.0,5.0,2.0,5.0,,,,,,,,,,,,,,,,,5.0,3.0,3.0,o	Kesinlikle sipariş etmem,o	Hayır,,,,,,,2.0,5.0,5.0,o	Kesinlikle sipariş ederim,o	Kararsızım
+"Jul 7, 2025","•	Çorbalar
+•	 Etli yemekler
+•	 Soslu makarnalar
+",3.0,2.0,2.0,3.0,1.0,o	Kesinlikle sipariş etmem,o	Hayır,5.0,3.0,2.0,2.0,,o	Hayır,,,,,,,,,,,,,,,2.0,4.0,3.0,1.0,,o	Hayır,,,,,,,,,,,,,,,,
+"Jul 7, 2025","•	Çorbalar
+•	 Etli yemekler
+•	Kızartmalar
+•	 Soslu makarnalar
+•	Tatlılar
+•	Salatalar",3.0,1.0,2.0,2.0,3.0,o	Kesinlikle sipariş ederim,o	Hayır,4.0,4.0,4.0,1.0,o	Muhtemelen sipariş etmem,o	Hayır,5.0,5.0,5.0,1.0,,,,,,,,,,,4.0,5.0,3.0,3.0,o	Muhtemelen sipariş ederim,o	Kararsızım,,,,,,5.0,2.0,4.0,5.0,o	Muhtemelen sipariş ederim,o	Evet,5.0,1.0,1.0,,o	Kararsızım
+"Jul 7, 2025","•	 Etli yemekler
+•	Pilavlar
+",,,,,,,,2.0,4.0,5.0,5.0,o	Kesinlikle sipariş ederim,o	Kararsızım,,,,,,,,,,,,,,,,,,,,,4.0,3.0,2.0,o	Kesinlikle sipariş etmem,o	Kararsızım,,,,,,,,,,,
+"Jul 7, 2025","•	Kızartmalar
+•	 Soslu makarnalar
+•	Pilavlar
+•	Tatlılar
+•	Salatalar
+",,,,,,,,,,,,,,5.0,5.0,4.0,1.0,o	Kesinlikle sipariş etmem,o	Hayır,,,,,,,,,2.0,2.0,2.0,3.0,o	Kesinlikle sipariş ederim,,4.0,5.0,5.0,o	Kesinlikle sipariş ederim,o	Kararsızım,4.0,4.0,3.0,2.0,o	Muhtemelen sipariş ederim,o	Hayır,1.0,3.0,5.0,o	Kesinlikle sipariş ederim,o	Evet
+"Jul 7, 2025","•	Çorbalar
+•	 Etli yemekler
+•	Kızartmalar
+•	Sebze yemekleri
+•	 Soslu makarnalar
+•	Pilavlar
+•	Tatlılar
+",4.0,1.0,1.0,4.0,4.0,o	Muhtemelen sipariş etmem,,1.0,2.0,1.0,1.0,o	Muhtemelen sipariş ederim,,3.0,5.0,3.0,4.0,o	Kararsızım,o	Evet,2.0,3.0,3.0,2.0,4.0,2.0,o	Muhtemelen sipariş etmem,,3.0,2.0,5.0,2.0,o	Kesinlikle sipariş ederim,,4.0,4.0,2.0,o	Kesinlikle sipariş ederim,o	Hayır,1.0,2.0,5.0,2.0,,o	Kararsızım,,,,,
+"Jul 7, 2025","•	Kızartmalar
+•	Sebze yemekleri
+•	Salatalar
+",,,,,,,,,,,,,,2.0,1.0,1.0,1.0,o	Kararsızım,,5.0,5.0,2.0,1.0,3.0,3.0,o	Kesinlikle sipariş etmem,o	Kararsızım,,,,,,,,,,,,,,,,,,5.0,2.0,3.0,o	Kesinlikle sipariş ederim,o	Hayır
+"Jul 7, 2025","•	 Soslu makarnalar
+•	Salatalar
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,3.0,1.0,4.0,o	Kararsızım,o	Evet,,,,,,,,,,,,1.0,1.0,1.0,o	Muhtemelen sipariş ederim,
+"Jul 7, 2025","•	Çorbalar
+•	 Etli yemekler
+•	Kızartmalar
+•	Sebze yemekleri
+•	 Soslu makarnalar
+•	Pilavlar
+•	Tatlılar
+•	Salatalar
+",5.0,5.0,3.0,5.0,4.0,o	Kararsızım,o	Evet,3.0,3.0,1.0,2.0,o	Kesinlikle sipariş etmem,o	Hayır,3.0,4.0,3.0,2.0,o	Kararsızım,,2.0,4.0,5.0,5.0,5.0,5.0,,o	Evet,5.0,2.0,5.0,3.0,o	Kesinlikle sipariş etmem,,4.0,3.0,2.0,,o	Hayır,2.0,2.0,3.0,2.0,o	Kararsızım,o	Kararsızım,3.0,4.0,2.0,o	Muhtemelen sipariş ederim,
+"Jul 7, 2025","•	Pilavlar
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0,1.0,5.0,o	Kararsızım,o	Evet,,,,,,,,,,,
+"Jul 7, 2025","•	Çorbalar
+•	 Etli yemekler
+•	Kızartmalar
+•	Salatalar
+",3.0,1.0,4.0,5.0,2.0,,,2.0,2.0,4.0,1.0,o	Kesinlikle sipariş ederim,o	Hayır,3.0,2.0,4.0,5.0,o	Kesinlikle sipariş ederim,o	Evet,,,,,,,,,,,,,,,,,,,,,,,,,,2.0,2.0,5.0,o	Muhtemelen sipariş ederim,
+"Jul 7, 2025",•	 Etli yemekler,,,,,,,,1.0,1.0,4.0,4.0,o	Muhtemelen sipariş etmem,o	Evet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Jul 7, 2025","•	Çorbalar
+•	 Etli yemekler
+•	Kızartmalar
+•	Sebze yemekleri
+•	 Soslu makarnalar
+•	Pilavlar
+•	Tatlılar
+•	Salatalar
+",3.0,2.0,4.0,4.0,1.0,o	Muhtemelen sipariş etmem,,4.0,2.0,1.0,1.0,o	Muhtemelen sipariş ederim,o	Evet,4.0,5.0,5.0,3.0,o	Muhtemelen sipariş ederim,o	Evet,1.0,4.0,4.0,2.0,4.0,3.0,o	Muhtemelen sipariş ederim,o	Kararsızım,1.0,2.0,4.0,1.0,o	Kararsızım,o	Hayır,3.0,3.0,1.0,,o	Evet,3.0,5.0,2.0,5.0,o	Kesinlikle sipariş etmem,o	Evet,5.0,5.0,4.0,o	Kararsızım,o	Kararsızım
+"Jul 7, 2025","•	Çorbalar
+•	 Etli yemekler
+•	Kızartmalar
+•	Sebze yemekleri
+•	 Soslu makarnalar
+•	Pilavlar
+•	Tatlılar
+•	Salatalar
+",4.0,2.0,1.0,2.0,5.0,o	Muhtemelen sipariş etmem,,2.0,5.0,2.0,4.0,o	Kesinlikle sipariş ederim,o	Evet,4.0,5.0,4.0,3.0,,,1.0,2.0,2.0,4.0,2.0,5.0,o	Muhtemelen sipariş ederim,o	Hayır,1.0,3.0,2.0,5.0,o	Kesinlikle sipariş etmem,o	Hayır,2.0,1.0,5.0,o	Kesinlikle sipariş etmem,o	Hayır,3.0,3.0,2.0,5.0,o	Kararsızım,o	Hayır,4.0,3.0,1.0,o	Muhtemelen sipariş ederim,o	Hayır
+"Jul 7, 2025","•	Çorbalar
+•	 Etli yemekler
+•	Kızartmalar
+•	Sebze yemekleri
+•	 Soslu makarnalar
+•	Tatlılar
+•	Salatalar
+",1.0,5.0,3.0,3.0,4.0,o	Muhtemelen sipariş ederim,o	Hayır,3.0,4.0,2.0,2.0,o	Muhtemelen sipariş ederim,,1.0,2.0,5.0,1.0,o	Kesinlikle sipariş ederim,o	Hayır,4.0,1.0,1.0,5.0,4.0,2.0,o	Kararsızım,o	Hayır,2.0,3.0,5.0,3.0,o	Muhtemelen sipariş ederim,o	Hayır,,,,,,2.0,1.0,5.0,2.0,o	Kararsızım,o	Evet,5.0,5.0,2.0,o	Kararsızım,o	Evet
+"Jul 7, 2025","•	Çorbalar
+•	 Etli yemekler
+•	Kızartmalar
+•	Sebze yemekleri
+•	 Soslu makarnalar
+•	Pilavlar
+•	Tatlılar
+•	Salatalar
+",4.0,4.0,1.0,4.0,5.0,,o	Kararsızım,5.0,1.0,3.0,1.0,,o	Kararsızım,5.0,4.0,1.0,2.0,o	Kesinlikle sipariş ederim,o	Evet,3.0,1.0,5.0,3.0,2.0,3.0,,o	Hayır,4.0,3.0,4.0,1.0,,o	Evet,3.0,5.0,1.0,o	Kararsızım,o	Kararsızım,1.0,5.0,3.0,4.0,,o	Hayır,2.0,2.0,5.0,o	Muhtemelen sipariş etmem,o	Kararsızım
+"Jul 7, 2025","•	Çorbalar
+•	 Etli yemekler
+•	Kızartmalar
+•	Sebze yemekleri
+•	 Soslu makarnalar
+•	Salatalar
+",2.0,3.0,2.0,4.0,3.0,o	Kesinlikle sipariş etmem,,1.0,1.0,1.0,3.0,o	Kesinlikle sipariş ederim,o	Evet,1.0,3.0,4.0,3.0,o	Muhtemelen sipariş ederim,o	Evet,1.0,1.0,2.0,4.0,3.0,5.0,o	Kesinlikle sipariş etmem,o	Hayır,4.0,3.0,1.0,1.0,o	Muhtemelen sipariş ederim,o	Kararsızım,,,,,,,,,,,,3.0,1.0,1.0,o	Kararsızım,o	Hayır
+"Jul 7, 2025","•	Çorbalar
+•	 Etli yemekler
+•	Kızartmalar
+•	Sebze yemekleri
+•	 Soslu makarnalar
+•	Pilavlar
+•	Tatlılar
+•	Salatalar
+",4.0,4.0,1.0,5.0,4.0,o	Kesinlikle sipariş etmem,,3.0,1.0,1.0,5.0,o	Muhtemelen sipariş etmem,o	Kararsızım,1.0,3.0,1.0,2.0,o	Muhtemelen sipariş etmem,o	Kararsızım,3.0,5.0,5.0,3.0,2.0,5.0,o	Muhtemelen sipariş etmem,,1.0,5.0,1.0,3.0,,o	Evet,1.0,2.0,1.0,o	Kesinlikle sipariş ederim,o	Kararsızım,3.0,3.0,3.0,3.0,o	Muhtemelen sipariş etmem,o	Hayır,1.0,1.0,5.0,o	Kararsızım,o	Kararsızım
+"Jul 7, 2025","•	Çorbalar
+•	 Etli yemekler
+•	Kızartmalar
+•	Sebze yemekleri
+•	 Soslu makarnalar
+•	Tatlılar
+•	Salatalar
+",3.0,2.0,5.0,5.0,5.0,o	Kesinlikle sipariş etmem,,3.0,3.0,4.0,3.0,o	Muhtemelen sipariş ederim,o	Kararsızım,5.0,2.0,2.0,4.0,o	Kesinlikle sipariş ederim,o	Hayır,2.0,4.0,1.0,3.0,1.0,3.0,o	Kesinlikle sipariş ederim,,2.0,2.0,1.0,5.0,o	Muhtemelen sipariş etmem,o	Kararsızım,,,,,,5.0,3.0,4.0,3.0,o	Kararsızım,,4.0,4.0,3.0,o	Muhtemelen sipariş etmem,
+"Jul 7, 2025","•	Çorbalar
+•	 Etli yemekler
+•	Kızartmalar
+•	Sebze yemekleri
+•	 Soslu makarnalar
+•	Pilavlar
+•	Tatlılar
+",5.0,3.0,1.0,2.0,1.0,o	Kesinlikle sipariş etmem,,4.0,4.0,5.0,3.0,o	Kesinlikle sipariş ederim,,1.0,1.0,5.0,5.0,o	Kararsızım,o	Hayır,3.0,5.0,1.0,1.0,2.0,5.0,o	Muhtemelen sipariş etmem,,5.0,1.0,5.0,4.0,o	Kesinlikle sipariş etmem,o	Evet,1.0,3.0,3.0,o	Kararsızım,o	Evet,2.0,5.0,3.0,4.0,o	Kesinlikle sipariş ederim,o	Kararsızım,,,,,
+"Jul 7, 2025","•	Kızartmalar
+•	Pilavlar",,,,,,,,,,,,,,5.0,4.0,5.0,1.0,o	Muhtemelen sipariş ederim,o	Hayır,,,,,,,,,,,,,,,4.0,1.0,5.0,o	Muhtemelen sipariş etmem,o	Kararsızım,,,,,,,,,,,
+"Jul 7, 2025","•	Çorbalar
+•	Kızartmalar
+•	Sebze yemekleri
+•	 Soslu makarnalar
+•	Pilavlar
+•	Tatlılar
+•	Salatalar
+",1.0,1.0,1.0,2.0,3.0,o	Kesinlikle sipariş ederim,o	Evet,,,,,,,1.0,1.0,3.0,2.0,o	Muhtemelen sipariş ederim,o	Evet,5.0,2.0,3.0,5.0,1.0,3.0,o	Muhtemelen sipariş ederim,,2.0,3.0,3.0,3.0,o	Kesinlikle sipariş ederim,o	Hayır,3.0,3.0,4.0,o	Kesinlikle sipariş ederim,o	Kararsızım,3.0,3.0,4.0,1.0,o	Muhtemelen sipariş etmem,o	Evet,5.0,5.0,2.0,,o	Kararsızım
+"Jul 7, 2025","•	Çorbalar
+•	 Etli yemekler
+•	Sebze yemekleri
+•	 Soslu makarnalar
+•	Pilavlar
+•	Tatlılar
+•	Salatalar
+",2.0,5.0,1.0,3.0,4.0,o	Kesinlikle sipariş ederim,o	Evet,1.0,2.0,4.0,5.0,o	Muhtemelen sipariş etmem,o	Kararsızım,,,,,,,2.0,1.0,5.0,4.0,4.0,2.0,o	Muhtemelen sipariş etmem,o	Kararsızım,3.0,5.0,4.0,4.0,o	Kesinlikle sipariş ederim,o	Hayır,3.0,3.0,2.0,o	Kararsızım,o	Hayır,5.0,1.0,2.0,4.0,o	Muhtemelen sipariş ederim,,2.0,3.0,2.0,o	Kesinlikle sipariş ederim,o	Evet
+"Jul 7, 2025",•	Tatlılar,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,2.0,3.0,1.0,o	Kesinlikle sipariş etmem,o	Evet,,,,,
+"Jul 7, 2025","•	Çorbalar
+•	 Etli yemekler
+•	Kızartmalar
+•	Sebze yemekleri
+•	 Soslu makarnalar
+•	Pilavlar
+•	Tatlılar
+",5.0,5.0,1.0,3.0,2.0,o	Kesinlikle sipariş ederim,,3.0,2.0,2.0,1.0,o	Muhtemelen sipariş ederim,o	Kararsızım,5.0,1.0,3.0,5.0,o	Kararsızım,,2.0,1.0,3.0,4.0,1.0,1.0,o	Kesinlikle sipariş etmem,o	Hayır,2.0,1.0,4.0,1.0,,,1.0,1.0,5.0,o	Muhtemelen sipariş etmem,o	Evet,2.0,5.0,2.0,4.0,o	Kesinlikle sipariş ederim,o	Kararsızım,,,,,
+"Jul 7, 2025","•	Çorbalar
+•	 Etli yemekler
+•	Kızartmalar
+•	Sebze yemekleri
+•	 Soslu makarnalar
+•	Pilavlar
+•	Salatalar",2.0,4.0,4.0,5.0,5.0,,o	Hayır,4.0,3.0,2.0,5.0,o	Kararsızım,o	Kararsızım,3.0,3.0,2.0,4.0,o	Muhtemelen sipariş etmem,o	Hayır,2.0,3.0,5.0,2.0,4.0,1.0,o	Kararsızım,,5.0,4.0,5.0,1.0,o	Kararsızım,o	Evet,1.0,2.0,4.0,o	Kesinlikle sipariş etmem,o	Kararsızım,,,,,,,2.0,4.0,5.0,o	Muhtemelen sipariş etmem,o	Hayır
+"Jul 7, 2025","•	Sebze yemekleri
+•	 Soslu makarnalar
+•	Tatlılar
+",,,,,,,,,,,,,,,,,,,,2.0,4.0,1.0,4.0,5.0,3.0,,o	Evet,2.0,2.0,2.0,5.0,o	Kesinlikle sipariş etmem,,,,,,,2.0,2.0,4.0,5.0,o	Muhtemelen sipariş etmem,o	Hayır,,,,,
+"Jul 7, 2025","•	Çorbalar
+•	 Etli yemekler
+•	Sebze yemekleri
+•	 Soslu makarnalar
+•	Pilavlar
+•	Salatalar",1.0,4.0,2.0,1.0,3.0,o	Kesinlikle sipariş ederim,,4.0,4.0,2.0,2.0,o	Kesinlikle sipariş etmem,,,,,,,,5.0,5.0,2.0,2.0,5.0,2.0,o	Kararsızım,o	Hayır,4.0,5.0,3.0,3.0,o	Muhtemelen sipariş etmem,o	Evet,3.0,2.0,1.0,o	Kesinlikle sipariş ederim,,,,,,,,2.0,5.0,4.0,o	Muhtemelen sipariş ederim,o	Hayır
+"Jul 7, 2025","•	 Etli yemekler
+•	Kızartmalar
+•	Sebze yemekleri
+•	 Soslu makarnalar
+•	Pilavlar
+•	Salatalar",,,,,,,,5.0,4.0,5.0,4.0,o	Kesinlikle sipariş ederim,o	Kararsızım,1.0,4.0,3.0,3.0,o	Muhtemelen sipariş etmem,o	Evet,3.0,1.0,3.0,5.0,1.0,2.0,o	Kesinlikle sipariş etmem,o	Evet,1.0,5.0,1.0,2.0,o	Kesinlikle sipariş ederim,o	Evet,5.0,4.0,3.0,o	Muhtemelen sipariş ederim,o	Hayır,,,,,,,2.0,5.0,5.0,,
+"Jul 7, 2025","•	Çorbalar
+•	 Etli yemekler
+•	Sebze yemekleri
+•	 Soslu makarnalar
+•	Pilavlar
+•	Salatalar",1.0,1.0,3.0,5.0,4.0,o	Muhtemelen sipariş ederim,o	Evet,5.0,5.0,4.0,2.0,o	Kararsızım,,,,,,,,3.0,3.0,4.0,2.0,2.0,3.0,o	Kesinlikle sipariş etmem,o	Hayır,3.0,1.0,4.0,4.0,,,2.0,1.0,3.0,o	Muhtemelen sipariş etmem,o	Kararsızım,,,,,,,4.0,4.0,4.0,o	Kesinlikle sipariş ederim,o	Kararsızım
+"Jul 7, 2025","•	Çorbalar
+•	 Etli yemekler
+•	Kızartmalar
+•	 Soslu makarnalar
+•	Pilavlar
+•	Salatalar
+",4.0,3.0,4.0,2.0,4.0,o	Kararsızım,o	Evet,3.0,2.0,3.0,3.0,o	Muhtemelen sipariş etmem,o	Hayır,1.0,1.0,2.0,1.0,o	Kesinlikle sipariş etmem,o	Kararsızım,,,,,,,,,4.0,4.0,4.0,2.0,,o	Kararsızım,3.0,3.0,2.0,o	Kesinlikle sipariş etmem,o	Evet,,,,,,,3.0,2.0,1.0,o	Muhtemelen sipariş etmem,o	Evet
+"Jul 7, 2025","•	 Etli yemekler
+•	Kızartmalar
+•	 Soslu makarnalar
+•	Pilavlar
+•	Tatlılar
+•	Salatalar
+",,,,,,,,1.0,4.0,1.0,1.0,o	Kararsızım,,5.0,3.0,3.0,4.0,o	Muhtemelen sipariş ederim,o	Kararsızım,,,,,,,,,3.0,5.0,1.0,1.0,o	Muhtemelen sipariş etmem,o	Hayır,5.0,3.0,5.0,o	Muhtemelen sipariş ederim,o	Kararsızım,2.0,1.0,1.0,1.0,o	Kesinlikle sipariş etmem,o	Kararsızım,3.0,3.0,5.0,o	Kesinlikle sipariş ederim,
+"Jul 7, 2025","•	 Etli yemekler
+•	Sebze yemekleri
+•	Salatalar",,,,,,,,1.0,3.0,3.0,5.0,o	Kesinlikle sipariş etmem,o	Kararsızım,,,,,,,4.0,3.0,5.0,1.0,2.0,5.0,o	Kesinlikle sipariş etmem,,,,,,,,,,,,,,,,,,,3.0,5.0,1.0,o	Muhtemelen sipariş etmem,o	Evet
+"Jul 7, 2025","•	 Etli yemekler
+•	Kızartmalar
+•	Sebze yemekleri
+•	 Soslu makarnalar
+•	Tatlılar
+",,,,,,,,3.0,3.0,2.0,2.0,o	Muhtemelen sipariş etmem,o	Kararsızım,3.0,4.0,5.0,3.0,o	Muhtemelen sipariş etmem,,5.0,2.0,5.0,3.0,1.0,3.0,o	Kararsızım,,2.0,2.0,3.0,2.0,o	Kesinlikle sipariş etmem,o	Hayır,,,,,,2.0,4.0,3.0,3.0,o	Kesinlikle sipariş ederim,o	Kararsızım,,,,,
+"Jul 7, 2025",•	Sebze yemekleri,,,,,,,,,,,,,,,,,,,,2.0,1.0,4.0,1.0,5.0,1.0,o	Muhtemelen sipariş ederim,o	Kararsızım,,,,,,,,,,,,,,,,,,,,,,
+"Jul 7, 2025","•	 Etli yemekler
+•	Kızartmalar
+•	Pilavlar
+•	Tatlılar
+•	Salatalar",,,,,,,,2.0,1.0,4.0,1.0,o	Kesinlikle sipariş etmem,o	Kararsızım,3.0,3.0,5.0,5.0,o	Kesinlikle sipariş ederim,o	Kararsızım,,,,,,,,,,,,,,,4.0,2.0,1.0,o	Muhtemelen sipariş ederim,o	Evet,5.0,3.0,3.0,3.0,o	Muhtemelen sipariş etmem,,4.0,3.0,4.0,o	Muhtemelen sipariş ederim,
+"Jul 7, 2025","•	Çorbalar
+•	Kızartmalar
+•	 Soslu makarnalar
+•	Tatlılar
+",3.0,2.0,5.0,3.0,2.0,o	Muhtemelen sipariş ederim,o	Hayır,,,,,,,5.0,5.0,4.0,5.0,o	Muhtemelen sipariş etmem,o	Evet,,,,,,,,,5.0,4.0,4.0,1.0,o	Muhtemelen sipariş etmem,o	Kararsızım,,,,,,1.0,1.0,2.0,5.0,o	Kesinlikle sipariş ederim,o	Hayır,,,,,
+"Jul 7, 2025","•	 Etli yemekler
+•	Sebze yemekleri
+•	Tatlılar
+•	Salatalar
+",,,,,,,,2.0,2.0,2.0,1.0,o	Kesinlikle sipariş etmem,o	Evet,,,,,,,2.0,2.0,5.0,4.0,4.0,2.0,,o	Kararsızım,,,,,,,,,,,,2.0,2.0,4.0,2.0,o	Muhtemelen sipariş etmem,,4.0,5.0,2.0,o	Kesinlikle sipariş etmem,o	Hayır
+"Jul 7, 2025","•	Çorbalar
+•	 Etli yemekler
+•	Kızartmalar
+•	 Soslu makarnalar
+",1.0,5.0,3.0,4.0,2.0,o	Muhtemelen sipariş etmem,,5.0,5.0,1.0,2.0,o	Kesinlikle sipariş etmem,o	Hayır,2.0,1.0,1.0,5.0,o	Kesinlikle sipariş etmem,o	Hayır,,,,,,,,,1.0,5.0,2.0,2.0,o	Kesinlikle sipariş etmem,o	Evet,,,,,,,,,,,,,,,,
+"Jul 7, 2025","•	Çorbalar
+•	 Etli yemekler
+•	Kızartmalar
+•	Sebze yemekleri
+•	Salatalar",5.0,5.0,5.0,1.0,1.0,o	Kararsızım,o	Kararsızım,2.0,3.0,1.0,5.0,o	Kararsızım,o	Hayır,2.0,3.0,5.0,4.0,o	Muhtemelen sipariş ederim,,5.0,5.0,1.0,5.0,3.0,5.0,,o	Evet,,,,,,,,,,,,,,,,,,2.0,3.0,4.0,o	Kesinlikle sipariş ederim,o	Hayır
+"Jul 7, 2025","•	Çorbalar
+•	Kızartmalar
+•	 Soslu makarnalar
+•	Pilavlar
+",2.0,3.0,3.0,4.0,4.0,o	Muhtemelen sipariş ederim,o	Evet,,,,,,,2.0,4.0,1.0,4.0,,,,,,,,,,,1.0,2.0,1.0,1.0,o	Kararsızım,o	Hayır,3.0,1.0,3.0,o	Kararsızım,o	Hayır,,,,,,,,,,,
+"Jul 7, 2025","•	Çorbalar
+•	Kızartmalar
+•	Pilavlar",5.0,5.0,5.0,5.0,5.0,o	Kesinlikle sipariş ederim,o	Evet,,,,,,,4.0,4.0,4.0,4.0,o	Muhtemelen sipariş ederim,o	Evet,,,,,,,,,,,,,,,2.0,2.0,2.0,o	Kararsızım,o	Kararsızım,,,,,,,,,,,
+"Jul 7, 2025","•	 Etli yemekler
+•	Sebze yemekleri
+•	Pilavlar
+•	Tatlılar
+",,,,,,,,1.0,1.0,1.0,2.0,,o	Kararsızım,,,,,,,5.0,3.0,1.0,4.0,3.0,4.0,,o	Kararsızım,,,,,,,3.0,2.0,1.0,o	Kesinlikle sipariş ederim,o	Evet,1.0,5.0,5.0,5.0,o	Kararsızım,,,,,,
+"Jul 7, 2025","•	Çorbalar
+•	Kızartmalar",5.0,3.0,1.0,4.0,2.0,,,,,,,,,3.0,1.0,2.0,2.0,o	Kesinlikle sipariş ederim,o	Kararsızım,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Jul 7, 2025","•	Pilavlar
+•	Tatlılar
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.0,2.0,4.0,o	Kesinlikle sipariş etmem,o	Kararsızım,1.0,5.0,3.0,5.0,o	Kesinlikle sipariş ederim,o	Kararsızım,,,,,
+"Jul 7, 2025","•	 Etli yemekler
+•	 Soslu makarnalar
+•	Salatalar",,,,,,,,1.0,5.0,1.0,3.0,o	Kesinlikle sipariş ederim,o	Kararsızım,,,,,,,,,,,,,,,3.0,2.0,2.0,2.0,o	Kararsızım,o	Evet,,,,,,,,,,,,1.0,2.0,5.0,o	Kesinlikle sipariş ederim,o	Kararsızım
+"Jul 7, 2025","•	Çorbalar
+•	Pilavlar",3.0,5.0,2.0,3.0,4.0,o	Kesinlikle sipariş ederim,o	Hayır,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,3.0,5.0,o	Muhtemelen sipariş etmem,o	Hayır,,,,,,,,,,,
+"Jul 7, 2025","•	Sebze yemekleri
+•	Pilavlar",,,,,,,,,,,,,,,,,,,,4.0,2.0,3.0,4.0,5.0,5.0,o	Muhtemelen sipariş etmem,o	Evet,,,,,,,3.0,3.0,3.0,o	Kesinlikle sipariş ederim,,,,,,,,,,,,
+"Jul 7, 2025","•	 Etli yemekler
+•	Kızartmalar
+",,,,,,,,1.0,3.0,1.0,2.0,,o	Evet,2.0,3.0,3.0,1.0,o	Muhtemelen sipariş etmem,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Jul 7, 2025",•	Çorbalar,2.0,1.0,5.0,1.0,1.0,o	Muhtemelen sipariş ederim,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Jul 7, 2025","•	Tatlılar
+•	Salatalar",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0,3.0,5.0,4.0,o	Muhtemelen sipariş ederim,o	Evet,5.0,5.0,5.0,o	Kesinlikle sipariş ederim,o	Evet
+"Jul 7, 2025","•	 Soslu makarnalar
+•	Salatalar",,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,4.0,1.0,1.0,,o	Kararsızım,,,,,,,,,,,,3.0,3.0,4.0,o	Kesinlikle sipariş ederim,o	Hayır
+"Jul 7, 2025","•	Sebze yemekleri
+•	Salatalar",,,,,,,,,,,,,,,,,,,,5.0,2.0,4.0,4.0,3.0,3.0,o	Muhtemelen sipariş etmem,o	Kararsızım,,,,,,,,,,,,,,,,,,2.0,1.0,4.0,o	Kesinlikle sipariş etmem,
+"Jul 7, 2025",•	Kızartmalar,,,,,,,,,,,,,,5.0,1.0,4.0,3.0,o	Kesinlikle sipariş etmem,o	Evet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

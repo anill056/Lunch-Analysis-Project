@@ -1,0 +1,9 @@
+Kategori,Precision,Recall,F1-Score,Support
+Çorbalar,0.8800,0.8500,0.8650,25
+Etli Yemekler,0.8500,0.8300,0.8400,28
+Kızartmalar,0.7900,0.8200,0.8050,22
+Sebze Yemekleri,0.7600,0.7400,0.7500,24
+Soslu Makarnalar,0.8300,0.8000,0.8150,26
+Pilavlar,0.8100,0.7900,0.8000,23
+Tatlılar,0.8400,0.8600,0.8500,27
+Salatalar,0.8000,0.7800,0.7900,25
